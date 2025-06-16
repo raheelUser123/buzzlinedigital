@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2 {
+        letter-spacing: .13em;
+      }
+
+      .cls-3 {
+        letter-spacing: .32em;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #656565;
+        stroke-miterlimit: 10;
+        stroke-width: 1.3px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.49em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.35em;
+      }
+
+      .cls-7 {
+        fill: #656565;
+        font-family: Nunito-ExtraLight, 'Nunito ExtraLight';
+        font-size: 15px;
+        font-variation-settings: 'wght' 200;
+        font-weight: 200;
+      }
+
+      .cls-8 {
+        letter-spacing: .15em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.49em;
+      }
+
+      .cls-10 {
+        letter-spacing: .11em;
+      }
+
+      .cls-11 {
+        letter-spacing: .08em;
+      }
+
+      .cls-12 {
+        letter-spacing: .32em;
+      }
+
+      .cls-13 {
+        letter-spacing: .18em;
+      }
+
+      .cls-14 {
+        letter-spacing: .12em;
+      }
+
+      .cls-15 {
+        letter-spacing: .12em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.38em;
+      }
+    </style>
+  </defs>
+  <text class="cls-7" transform="translate(14.61 64.28)"><tspan class="cls-2" x="0" y="0">D</tspan><tspan class="cls-9" x="12.78" y="0">E</tspan><tspan class="cls-1" x="23.14" y="0">B</tspan><tspan class="cls-8" x="34.9" y="0">O</tspan><tspan class="cls-12" x="48.06" y="0">N</tspan><tspan class="cls-14" x="60.79" y="0">A</tspan><tspan class="cls-16" x="73.39" y="0">I</tspan><tspan class="cls-13" x="78.99" y="0">R</tspan><tspan class="cls-6" x="90.93" y="0"> </tspan><tspan class="cls-11" x="96.48" y="0">S</tspan><tspan class="cls-15" x="107.47" y="0">C</tspan><tspan class="cls-5" x="119.22" y="0">E</tspan><tspan class="cls-3" x="129.58" y="0">N</tspan><tspan class="cls-10" x="142.32" y="0">T</tspan></text>
+  <line class="cls-4" x1="107.5" y1="42.5" x2="107.5" y2="74.5"/>
+</svg>
