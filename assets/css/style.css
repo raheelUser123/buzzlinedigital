@@ -4975,6 +4975,25 @@ section#we-grown .row {
 }
 
 @media only screen and (max-width:480px) {
+      section#calltc img {
+        width: 40%;
+        margin: 0 auto;
+        display: table;
+    }
+    section#calltc-sencd h2 span {
+    font-size: unset !important;
+}
+    section#calltc-sencd .container h1 {
+    font-size: 25px !important;
+    line-height: 35px !important;
+}
+    section#strategic-ppc .ppc-cards {
+    margin-bottom: 20px !important;
+    height: auto !important;
+}
+    .main-cards-adv {
+    display: block !important;
+}
     .case-slider-image {
         display: none
     }
