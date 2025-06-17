@@ -3,10 +3,7 @@
 <?php include_once("includes/head.php") ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+   
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -72,11 +69,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </h2>
                 <p>
 
-                    Are your Google Ads not driving the results you expect? Are you wasting money on campaigns that aren’t contributing to your growth, leaving you stuck in place? Instead of continually investing in underperforming ads, it’s time to reach out to Tabsoft Marketing. As experienced Google Ads specialists, we’ve helped clients across various industries transform struggling campaigns into powerful profit-generating engines.
+                    Are your Google Ads not driving the results you expect? Are you wasting money on campaigns that aren’t contributing to your growth, leaving you stuck in place? Instead of continually investing in underperforming ads, it’s time to reach out to Buzzline Digital. As experienced Google Ads specialists, we’ve helped clients across various industries transform struggling campaigns into powerful profit-generating engines.
                 </p>
                 <p>
 
-                    Blind trial-and-error is a costly approach. Your business deserves better. At Tabsoft Marketing, we’ve managed hundreds of Google Ads campaigns and already know what strategies work and which don’t. From optimizing keywords and restructuring disorganized accounts to crafting compelling copy, creatives, and beyond, we’ll revamp your Google Ads campaigns for optimal results.
+                    Blind trial-and-error is a costly approach. Your business deserves better. At Buzzline Digital, we’ve managed hundreds of Google Ads campaigns and already know what strategies work and which don’t. From optimizing keywords and restructuring disorganized accounts to crafting compelling copy, creatives, and beyond, we’ll revamp your Google Ads campaigns for optimal results.
                 </p>
             </div>
             <div class="row">
@@ -235,7 +232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h2>Google Shopping <span> Ads</span></h2>
                     <p>
 
-                        What’s better than optimized Google Ads driving customers to your ecommerce site? Optimized Google Shopping Ads that let them browse products directly from search results. At TabsoftAgency, we create targeted Shopping Ads campaigns focused on high-intent customers, using in-depth research and years of expertise to turn prospective buyers into happy shoppers.
+                        What’s better than optimized Google Ads driving customers to your ecommerce site? Optimized Google Shopping Ads that let them browse products directly from search results. At Buzzline DigitalAgency, we create targeted Shopping Ads campaigns focused on high-intent customers, using in-depth research and years of expertise to turn prospective buyers into happy shoppers.
                     </p>
                     <div class="ad-button">
                         <a href="#"> <button class="button2 quote-button">Get Proposal</button></a>
@@ -284,7 +281,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h2>Google YouTube <span> Ads </span></h2>
                     <p>
 
-                        YouTube, the second most popular site after Google, is perfect for showcasing products through video. At TabsoftAgency, we create high-quality YouTube ads tailored to your audience and business goals using advanced targeting and analytics. Our creative team delivers engaging, impactful content that boosts brand awareness and drives conversions, ensuring your ads reach the right viewers on YouTube’s vast platform.
+                        YouTube, the second most popular site after Google, is perfect for showcasing products through video. At Buzzline DigitalAgency, we create high-quality YouTube ads tailored to your audience and business goals using advanced targeting and analytics. Our creative team delivers engaging, impactful content that boosts brand awareness and drives conversions, ensuring your ads reach the right viewers on YouTube’s vast platform.
                     </p>
                     <div class="ad-button">
                         <a href="#"> <button class="button2 quote-button">Get Proposal</button></a>
@@ -399,7 +396,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p>
-                                    Partnering with a Google Ads agency offers immediate expertise, time savings, and cost efficiency. These agencies employ skilled professionals who stay up-to-date with the latest trends, saving you time and money compared to handling campaigns internally. They also provide access to advanced tools and landing page design to optimize campaigns for better results. Working with a Google Premier Partner like TabsoftAgency ensures your campaigns are in expert hands, as these partners are recognized by Google as being in the top 2% of agencies globally and are known for their exceptional expertise.
+                                    Partnering with a Google Ads agency offers immediate expertise, time savings, and cost efficiency. These agencies employ skilled professionals who stay up-to-date with the latest trends, saving you time and money compared to handling campaigns internally. They also provide access to advanced tools and landing page design to optimize campaigns for better results. Working with a Google Premier Partner like Buzzline DigitalAgency ensures your campaigns are in expert hands, as these partners are recognized by Google as being in the top 2% of agencies globally and are known for their exceptional expertise.
                                 </p>
                             </div>
                         </div>

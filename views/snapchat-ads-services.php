@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/snapchat-ads-services/";
-$metaTitle = "Snapchat Ad Management Services | Tabsoft Marketing ";
+$metaUrl = "https://www.buzzlinedigital.com.com/snapchat-ads-services/";
+$metaTitle = "Snapchat Ad Management Services | Buzzline Digital ";
 $metaDescription = " From targeted campaigns to creative designs, we help your brand reach the right audience with Snapchat ad management services.";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -518,7 +515,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat-ads-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

@@ -17,7 +17,7 @@
                                     $24 Million Boost in Sales Through Ecommerce Marketing Services </span></h5>
                             <p>
 
-                                "After limited success with big ecommerce marketing agencies, we’ve been absolutely amazed by the results TabsoftAgency has delivered. For over 7 years, they’ve consistently helped us achieve rapid and profitable growth. They’re a trusted partner and an integral part of our team."
+                                "After limited success with big ecommerce marketing agencies, we’ve been absolutely amazed by the results Buzzline DigitalAgency has delivered. For over 7 years, they’ve consistently helped us achieve rapid and profitable growth. They’re a trusted partner and an integral part of our team."
                             </p>
                             <div class="google-quote">
                                 <a href="#"> <button class="button2">Read Case Study</button></a>

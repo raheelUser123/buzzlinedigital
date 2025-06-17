@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/review-reputation-services/";
-$metaTitle = "Review and Reputation Management Services | Tabsoft Marketing";
-$metaDescription = " Enhance your digital presence with the online review and reputation management services of Tabsoft Marketing!";
+$metaUrl = "https://www.buzzlinedigital.com.com/review-reputation-services/";
+$metaTitle = "Review and Reputation Management Services | Buzzline Digital";
+$metaDescription = " Enhance your digital presence with the online review and reputation management services of Buzzline Digital!";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -23,7 +20,7 @@ include_once("includes/head.php");
                     </h1>
                     <p>
 
-                        In the digital world, reviews are your reputation. Thus, partner with Tabsoft Marketing and take control of your online reputation.
+                        In the digital world, reviews are your reputation. Thus, partner with Buzzline Digital and take control of your online reputation.
                     </p>
 
                     <div class="service-button">
@@ -46,7 +43,7 @@ include_once("includes/head.php");
                 <div class="col-lg-6">
                     <h6><span>Harness the Power of Reviews</span></h6>
                     <h3>
-                        Tabsoft’s review and <span>management services</span> help you monitor, improve, and protect your <span>brand’s reputation</span>.
+                        Buzzline Digital’s review and <span>management services</span> help you monitor, improve, and protect your <span>brand’s reputation</span>.
                     </h3>
                     <p>
                         <strong>Market share is directly correlated with brand reputation</strong>, and that is where our review and reputation management comes in. We provide professional review and reputation management services to help businesses maintain and enhance their positive online image. Our services primarily focus on monitoring and managing online reviews, addressing customer feedback, and boosting your brand’s reputation.
@@ -89,7 +86,7 @@ include_once("includes/head.php");
                     <h2>Be in Charge of Your Online Reputation with The Top Review Management Company.
                     </h2>
                     <p>
-                        <strong>Build your customer trust and positive image with Tabsoft Marketing</strong>. We take your brand’s image and shape a positive story around it. Our expert team uses proven strategies, focuses on building a strong reputation, and keeps an eye on your brand's image every step of the way to make sure your brand always shines in the best possible way.
+                        <strong>Build your customer trust and positive image with Buzzline Digital</strong>. We take your brand’s image and shape a positive story around it. Our expert team uses proven strategies, focuses on building a strong reputation, and keeps an eye on your brand's image every step of the way to make sure your brand always shines in the best possible way.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -236,7 +233,7 @@ include_once("includes/head.php");
                     <div class="our-seo-content text-center">
                         <h2> Review and Management Services that We Provide</h2>
                         <p>
-                            We don’t compromise on quality. Tabsoft offers a variety of premium tools and expert services to help businesses<br> or individuals monitor, improve, and protect their online reputation!
+                            We don’t compromise on quality. Buzzline Digital offers a variety of premium tools and expert services to help businesses<br> or individuals monitor, improve, and protect their online reputation!
                         </p>
                     </div>
                 </div>
@@ -287,7 +284,7 @@ include_once("includes/head.php");
         </div>
         <div class="cli-seo-content">
             <p>
-                Reputation crises are uncertain, but it’s good to know that Tabsoft’s team is taking a customer-first approach to reputation management and creating a positive online presence for brands.
+                Reputation crises are uncertain, but it’s good to know that Buzzline Digital’s team is taking a customer-first approach to reputation management and creating a positive online presence for brands.
                 Ryan Cox,<span> Director of Marketing</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -314,7 +311,7 @@ include_once("includes/head.php");
                     <div class="vertical-slider-month">
                         <h2>Our Review and Reputation Management Process</h2>
                         <p>
-                            At Tabsoft, we understand the importance of maintaining a strong online reputation. Our streamlined three-step process ensures that your brand’s image is carefully managed and continuously improved. From identifying issues to building positive feedback, we take a proactive approach to protect and enhance your reputation. Here's how we do it:
+                            At Buzzline Digital, we understand the importance of maintaining a strong online reputation. Our streamlined three-step process ensures that your brand’s image is carefully managed and continuously improved. From identifying issues to building positive feedback, we take a proactive approach to protect and enhance your reputation. Here's how we do it:
                         </p>
                         <!-- <div class="highlight">
                             <p>
@@ -466,7 +463,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="review-reputation-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -488,7 +485,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "Tabsoft's review and reputation services have significantly enhanced our online presence. Their strategic approach to managing and cultivating customer feedback has been instrumental in improving our brand image. Their team is highly proactive and results-oriented."
+                                "Buzzline Digital's review and reputation services have significantly enhanced our online presence. Their strategic approach to managing and cultivating customer feedback has been instrumental in improving our brand image. Their team is highly proactive and results-oriented."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -508,7 +505,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                "Working with Tabsoft has been a strategic advantage. Their reputation management services are thorough, professional, and tailored to our specific needs. They’ve played a key role in maintaining and enhancing our digital reputation."
+                                "Working with Buzzline Digital has been a strategic advantage. Their reputation management services are thorough, professional, and tailored to our specific needs. They’ve played a key role in maintaining and enhancing our digital reputation."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -528,7 +525,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                "Thanks to Tabsoft, our online reputation has seen remarkable improvements. Their professional approach to managing reviews and proactively engaging with customers has elevated our brand image and trustworthiness."
+                                "Thanks to Buzzline Digital, our online reputation has seen remarkable improvements. Their professional approach to managing reviews and proactively engaging with customers has elevated our brand image and trustworthiness."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -549,7 +546,7 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                                "Tabsoft’s reputation management solutions are both reliable and highly effective. They have consistently provided excellent support in monitoring reviews, responding to feedback, and strengthening our online presence. Their services have proven to be an essential part of our digital strategy."
+                                "Buzzline Digital’s reputation management solutions are both reliable and highly effective. They have consistently provided excellent support in monitoring reviews, responding to feedback, and strengthening our online presence. Their services have proven to be an essential part of our digital strategy."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -583,10 +580,10 @@ include_once("includes/head.php");
                 },
                 {
                     "@type": "Question",
-                    "name": "How does Tabsoft Marketing handle negative online content?",
+                    "name": "How does Buzzline Digital handle negative online content?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Tabsoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation."
+                        "text": "Buzzline Digital handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation."
                     }
                 },
                 {
@@ -640,13 +637,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            How does Tabsoft Marketing handle negative online content?
+                            How does Buzzline Digital handle negative online content?
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Tabsoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation.
+                            Buzzline Digital handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation.
                         </div>
                     </div>
                 </div>
@@ -746,13 +743,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose Tabsoft Marketing over other digital marketing firms?
+                            Why should I choose Buzzline Digital over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to
+                            Buzzline Digital stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -763,13 +760,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with Tabsoft Marketing?
+                            How can I get started with Buzzline Digital?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or
+                            Getting started with Buzzline Digital is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>
@@ -780,7 +777,7 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!";
+    <?php $headingText = "Get Started with Buzzline Digital and <br> Dominate Search Results!";
     include_once("includes/footer.php") ?>
 
 

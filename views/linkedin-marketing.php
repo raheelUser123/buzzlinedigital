@@ -3,10 +3,7 @@
 <?php include_once("includes/head.php") ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+   
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -326,11 +323,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p>
-                                    Partnering with a LinkedIn marketing agency like Tabsoft Marketing comes with numerous benefits. With extensive experience in LinkedIn advertising and managing multiple client accounts, agencies like ours deliver improved results and greater cost efficiency. We handle the complexities of campaign management, optimization, and creative production, saving you valuable time and resources. </p>
+                                    Partnering with a LinkedIn marketing agency like Buzzline Digital comes with numerous benefits. With extensive experience in LinkedIn advertising and managing multiple client accounts, agencies like ours deliver improved results and greater cost efficiency. We handle the complexities of campaign management, optimization, and creative production, saving you valuable time and resources. </p>
                                 <p>
-                                    Tabsoft Marketing also brings creative expertise to ensure your ads stand out and often leverages specialized tools and insights that may not be readily available to your in-house marketing team. Additionally, we design custom landing pages with dynamic content fully integrated with your CRM to maximize conversions. </p>
+                                    Buzzline Digital also brings creative expertise to ensure your ads stand out and often leverages specialized tools and insights that may not be readily available to your in-house marketing team. Additionally, we design custom landing pages with dynamic content fully integrated with your CRM to maximize conversions. </p>
                                 <p>
-                                    A reliable agency like Tabsoft Marketing will continuously test and refine campaigns, provide transparent reporting, and ensure compliance with LinkedIn's advertising policies, helping you achieve consistent success.
+                                    A reliable agency like Buzzline Digital will continuously test and refine campaigns, provide transparent reporting, and ensure compliance with LinkedIn's advertising policies, helping you achieve consistent success.
                                 </p>
                             </div>
                         </div>
@@ -406,7 +403,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </h2>
                         <div id="collapseSix" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <p>Ready to get started with Tabsoft Marketing? We’ve made the onboarding process easy and efficient. Here’s how it works:</p>
+                                <p>Ready to get started with Buzzline Digital? We’ve made the onboarding process easy and efficient. Here’s how it works:</p>
 
                                 <ul class="google-ul">
                                     <li><b> Initial Contact: </b> Reach out to us for a free consultation and account audit to assess where your business stands with its Facebook campaigns.</li>

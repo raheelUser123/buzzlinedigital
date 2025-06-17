@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/instagram-ads-services/";
-$metaTitle = "Instagram Ad Management to Boost Your Brand | Tabsoft Marketing";
+$metaUrl = "https://www.buzzlinedigital.com.com/instagram-ads-services/";
+$metaTitle = "Instagram Ad Management to Boost Your Brand | Buzzline Digital";
 $metaDescription = "Transform your brand with tailored Instagram ad management services. Our team helps you engage, convert, and grow on Instagram.";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -512,7 +509,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="instagram-ads-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

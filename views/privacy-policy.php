@@ -3,10 +3,7 @@
 <?php include_once("includes/head.php") ?>
 
 <body id="privacy-policy">
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+   
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -24,7 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <h3>Introduction</h3>
                 <p>
-                Tabsoft Marketing ("we," "us," "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our services.
+                Buzzline Digital ("we," "us," "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our services.
                 </p>
 
                 <h3>
@@ -78,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Contact Us
                 </h3>           
                 <p>
-                For questions about this Privacy Policy, please contact us at <a href="mailto:query@tabsoftmarketing.com"> query@tabsoftmarketing.com.</a>
+                For questions about this Privacy Policy, please contact us at <a href="mailto:query@buzzlinedigital.com"> query@buzzlinedigital.com.</a>
                 </p>
             </div>
         </div>

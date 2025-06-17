@@ -3,10 +3,7 @@
 <?php include_once("includes/head.php") ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -28,7 +25,7 @@
             <div class="row">
                 <h3>Services Provided</h3>
                 <p>
-                    Tabsoft Marketing offers a range of digital marketing services, including but not limited to:
+                    Buzzline Digital offers a range of digital marketing services, including but not limited to:
                 </p>
                 <ul class="policy-list">
                     <li>Search Engine Optimization (SEO)</li>
@@ -60,11 +57,11 @@
                 </p>
                 <h3>Intellectual Property</h3>
                 <p>
-                    All content, trademarks, and data on our website and services are the property of Tabsoft Marketing or our licensors. Unauthorized use is prohibited.
+                    All content, trademarks, and data on our website and services are the property of Buzzline Digital or our licensors. Unauthorized use is prohibited.
                 </p>
                 <h3>Limitation of Liability</h3>
                 <p>
-                    Tabsoft Marketing is not liable for any indirect, incidental, or consequential damages arising from the use of our services.
+                    Buzzline Digital is not liable for any indirect, incidental, or consequential damages arising from the use of our services.
                 </p>
                 <h3>Termination</h3>
                 <p>
@@ -82,7 +79,7 @@
                 Contact Information
                 </h3>
                 <p>
-                For questions about these Terms, please contact us at query@tabsoftmarketing.com
+                For questions about these Terms, please contact us at query@buzzlinedigital.com
                 </p>
             </div>
         </div>

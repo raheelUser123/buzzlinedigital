@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/who-we-are/";
-$metaTitle = "About Us | Who Are We? | Tabsoft Marketing";
-$metaDescription = "Tabsoft is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
+$metaUrl = "https://www.buzzlinedigital.com.com/who-we-are/";
+$metaTitle = "About Us | Who Are We? | Buzzline Digital";
+$metaDescription = "Buzzline Digital is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="partners-hero-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h1>Tabsoft Marketing</h1>
+                    <h1>Buzzline Digital</h1>
                     <p>
                         A full-service digital marketing agency where creativity meets strategy to deliver exceptional marketing and ad management services, helping businesses of all sizes achieve the results they dreamed of.
                     </p>
@@ -36,7 +33,7 @@ include_once("includes/head.php");
                 <p> RESULTS > PROMISES</p>
                 <h2>Your Success is Measured, Optimized, and Delivered.</h2>
                 <p>We aim for outcomes, not just outputs.</p>
-                <p>Tabsoft is your brand’s secret weapon for digital domination that drives tangible results.</p>
+                <p>Buzzline Digital is your brand’s secret weapon for digital domination that drives tangible results.</p>
                 <div class="request-quote">
                     <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
                 </div>
@@ -224,7 +221,7 @@ include_once("includes/head.php");
                     <p class="dna"><span>Marketing is our Passion</span></p>
                     <h2>Our story</h2>
                     <p>
-                        Every great brand has an origin story, and ours is no different. Tabsoft was born from a shared vision to redefine how businesses connect with their audiences. What started as a small team of dreamers and doers has grown into a powerhouse of marketing innovators, pushing boundaries and delivering excellence every step of the way.
+                        Every great brand has an origin story, and ours is no different. Buzzline Digital was born from a shared vision to redefine how businesses connect with their audiences. What started as a small team of dreamers and doers has grown into a powerhouse of marketing innovators, pushing boundaries and delivering excellence every step of the way.
                     </p>
                     <div class="our-story-button">
                         <a href="/get-proposal/"> <button class="button2 ">Work With Us</button></a>
@@ -240,7 +237,7 @@ include_once("includes/head.php");
                     <p class="experience-para"><span>10+ Years of Experience</span></p>
                     <h2>A Proven Track Record of Success</h2>
                     <p>
-                        At TabsoftAgency, we don’t just talk about results; we deliver them. Our team boasts a proven track record of success across various industries and campaign types. We're not afraid to think outside the box and explore innovative solutions to help you achieve your marketing goals. Join the growing list of businesses partnered with us to achieve digital marketing success.
+                        At Buzzline DigitalAgency, we don’t just talk about results; we deliver them. Our team boasts a proven track record of success across various industries and campaign types. We're not afraid to think outside the box and explore innovative solutions to help you achieve your marketing goals. Join the growing list of businesses partnered with us to achieve digital marketing success.
                     </p>
                 </div>
                 <div class="col-lg-4">
@@ -525,7 +522,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "Tabsoft has been instrumental in growing our online store. Their data-driven approach to ecommerce marketing, from website optimization to targeted email campaigns, has substantially increased customer conversions and overall revenue. We're incredibly pleased with the results!"
+                                "Buzzline Digital has been instrumental in growing our online store. Their data-driven approach to ecommerce marketing, from website optimization to targeted email campaigns, has substantially increased customer conversions and overall revenue. We're incredibly pleased with the results!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

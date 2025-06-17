@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/tiktok-ads-services/";
-$metaTitle = "TikTok Ad Management Services | Tabsoft Marketing";
+$metaUrl = "https://www.buzzlinedigital.com.com/tiktok-ads-services/";
+$metaTitle = "TikTok Ad Management Services | Buzzline Digital";
 $metaDescription = "Utilize the power of TikTok ads with expert management services and let your brand thrive on the world’s fastest-growing platform.";
 include_once("includes/head.php");
 ?>
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -23,7 +20,7 @@ include_once("includes/head.php");
                     </h1>
                     <p>
 
-                        Tabsoft is a top TikTok marketing agency with the expertise to help your brand shine and stand out with compelling ads.
+                        Buzzline Digital is a top TikTok marketing agency with the expertise to help your brand shine and stand out with compelling ads.
                     </p>
 
                     <div class="service-button">
@@ -341,7 +338,7 @@ include_once("includes/head.php");
         </div>
         <div class="cli-seo-content">
             <p>
-                "Tabsoft is a standout TikTok marketing agency, blending creative brilliance with sharp data analysis, making them an invaluable partner for any brand looking to thrive on TikTok.""
+                "Buzzline Digital is a standout TikTok marketing agency, blending creative brilliance with sharp data analysis, making them an invaluable partner for any brand looking to thrive on TikTok.""
                 Harry Brook,<span> Digital Marketing Expert.</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -491,7 +488,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="tiktok-ads-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -513,7 +510,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "Tabsoft completely transformed our TikTok marketing strategy. The targeted ads brought in a flood of new followers, and our sales skyrocketed. They know how to turn creativity into results!"
+                                "Buzzline Digital completely transformed our TikTok marketing strategy. The targeted ads brought in a flood of new followers, and our sales skyrocketed. They know how to turn creativity into results!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -533,7 +530,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                "I was struggling to gain traction on TikTok until we partnered with Tabsoft. Their team nailed the perfect balance of fun, engaging content that resonated with my audience. My online coaching business is growing faster than ever!"
+                                "I was struggling to gain traction on TikTok until we partnered with Buzzline Digital. Their team nailed the perfect balance of fun, engaging content that resonated with my audience. My online coaching business is growing faster than ever!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -553,7 +550,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                "Working with Tabsoft was a game-changer. They helped me create content that truly connects with my followers, and my engagement has tripled. I couldn’t be happier with the results!"
+                                "Working with Buzzline Digital was a game-changer. They helped me create content that truly connects with my followers, and my engagement has tripled. I couldn’t be happier with the results!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -574,7 +571,7 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                                "Tabsoft took my TikTok ads to the next level. Their creative approach, combined with data-driven strategies, helped boost my brand’s visibility and drive actual sales. Highly recommend them to anyone looking to grow on TikTok!"
+                                "Buzzline Digital took my TikTok ads to the next level. Their creative approach, combined with data-driven strategies, helped boost my brand’s visibility and drive actual sales. Highly recommend them to anyone looking to grow on TikTok!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

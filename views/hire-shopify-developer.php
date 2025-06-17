@@ -3,10 +3,7 @@
 <?php include_once("includes/head.php") ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+   
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section" class="hire-shopify-developer">
@@ -14,8 +11,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="shopify-slider">
-                        <div><img src="../assets/images/shopify-Tabsoft-images.jpg" alt="Shop Image 1"></div>
-                        <div><img src="../assets/images/shopify-Tabsoft-image-2.jpg" alt="Shop Image 1"></div>
+                        <div><img src="../assets/images/shopify-Buzzline Digital-images.jpg" alt="Shop Image 1"></div>
+                        <div><img src="../assets/images/shopify-Buzzline Digital-image-2.jpg" alt="Shop Image 1"></div>
                     </div>
 
                 </div>
@@ -107,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </fieldset>
 
                             <input type="hidden" name="route" value="hire-shopify-developer/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -425,7 +422,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="shopify-slider-text">
                                     <p>
-                                        The experience with the Tabsoft Marketing has been fantastic thus far Anna my web developer is very informative and keeps me up-to-date on every project that she’s implementing…
+                                        The experience with the Buzzline Digital has been fantastic thus far Anna my web developer is very informative and keeps me up-to-date on every project that she’s implementing…
                                     </p>
                                 </div>
                             </div>

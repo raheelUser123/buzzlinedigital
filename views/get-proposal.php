@@ -4,17 +4,14 @@
 
 <body>
     <?php include_once("includes/header.php") ?>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <section id="get-proposal-hero-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
                     <h1>Boost Your Online Business with <span>
-                            TabSoft Marketing
+                            Buzzline Digital
                         </span></h1>
                     <h5>
                         Our proposal provides a customized marketing plan, leveraging successful strategies we've implemented for over 300+ clients.
@@ -129,7 +126,7 @@
                             </fieldset>
                             <input type="hidden" name="url" value="/get-a-quote/">
                             <input type="hidden" name="route" value="get-proposal/">
-                            <input type="hidden" name="brand" value="Tabsoft Marketing">
+                            <input type="hidden" name="brand" value="Buzzline Digital">
                             <input type="hidden" name="token" value="<?= $token; ?>">
                             <input type="hidden" name="tag" value="sidepanel form in landing-page">
                             <input type="hidden" name="price" value="null">
@@ -179,7 +176,7 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing has consistently delivered outstanding ROI on our paid campaigns. Their profound expertise in B2B SaaS and Cybersecurity is evident in the compelling content and high-performing landing pages they've developed for us. They consistently excel across all our campaigns!"
+                            "Buzzline Digital has consistently delivered outstanding ROI on our paid campaigns. Their profound expertise in B2B SaaS and Cybersecurity is evident in the compelling content and high-performing landing pages they've developed for us. They consistently excel across all our campaigns!"
                          </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -198,7 +195,7 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "After limited success with larger agencies, we have been thoroughly impressed by Tabsoft Marketing's achievements. Over the past seven years, they have consistently driven rapid and profitable growth. They are a trusted partner and an essential extension of our team."
+                            "After limited success with larger agencies, we have been thoroughly impressed by Buzzline Digital's achievements. Over the past seven years, they have consistently driven rapid and profitable growth. They are a trusted partner and an essential extension of our team."
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -217,7 +214,7 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Working with Tabsoft Marketing yielded results that far exceeded our expectations. We experienced a 50% reduction in cost per lead, a 100% increase in the sales-qualified pipeline from paid search, and a fourfold improvement in landing page conversions. Tabsoft Marketing consistently surpassed every quarterly goal ahead of schedule and was a pleasure to collaborate with."        
+                            "Working with Buzzline Digital yielded results that far exceeded our expectations. We experienced a 50% reduction in cost per lead, a 100% increase in the sales-qualified pipeline from paid search, and a fourfold improvement in landing page conversions. Buzzline Digital consistently surpassed every quarterly goal ahead of schedule and was a pleasure to collaborate with."        
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -236,7 +233,7 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "The Tabsoft Marketing team has been crucial in helping us reach our revenue targets through an exceptionally effective paid search program. They integrated our existing tools, such as HubSpot and Salesforce, to provide comprehensive visibility and employed a strategic test-and-adjust approach that consistently delivered results. I highly recommend Tabsoft Marketing to any company aiming to transform a struggling PPC program into a thriving profit center."
+                            "The Buzzline Digital team has been crucial in helping us reach our revenue targets through an exceptionally effective paid search program. They integrated our existing tools, such as HubSpot and Salesforce, to provide comprehensive visibility and employed a strategic test-and-adjust approach that consistently delivered results. I highly recommend Buzzline Digital to any company aiming to transform a struggling PPC program into a thriving profit center."
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

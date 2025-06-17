@@ -9,17 +9,17 @@
     <section id="service-hero-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-8">
                     <h1>
-                        <span>Ecommerce Landing</span> Page Design Services
+                        Boost Your <span>Research Paper's</span> Chances of Publication by <br>3X with Our Expert English Editing Services.
                     </h1>
-                    <p>Ecommerce landing pages optimized for conversions</p>
+                    <p>Rely on our subject matter experts to review your research paper, experience two levels of meticulous editing for a flawless outcome, and receive top-quality content crafted by native, highly skilled writers.</p>
 
                     <div class="service-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/who-we-are/"> <button class="button2 quote-button">Know More</button></a>
                     </div>
                 </div>
-                <div class="col-lg-6"></div>
+                <div class="col-lg-4"></div>
             </div>
         </div>
     </section>
@@ -29,33 +29,33 @@
                 <div class="col-lg-4">
                     <div class="create-advanced-cards">
                         <div class="create-advanced-cards-image-wrapper">
-                            <img src="../assets/images/ecom-c-m-image-c-1.png" alt="">
+                            <img src="../assets/images/graduate.gif" alt="">
                         </div>
-                        <h4>
+                        <h3>
 
-                            Elegantly crafted landing pages with dynamic content tailored to search terms and locations, enriched with persuasive messaging and impactful social proof.
-                        </h4>
+                            17,587 +
+                        </h3>
+                        <p>Impeccable papers</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="create-advanced-cards">
                         <div class="create-advanced-cards-image-wrapper">
-                            <img src="../assets/images/ecom-c-m-image-c-2.png" alt="">
+                            <img src="../assets/images/writing.gif" alt="">
                         </div>
-                        <h4>
-
-                            Seamless integration with CRM, analytics, conversion tracking, attribution models, heatmaps, and other tools to track performance and drive optimization.
-                        </h4>
+                        <h3>
+                            13,000 +
+                        </h3>
+                        <p>Content Clients</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="create-advanced-cards">
                         <div class="create-advanced-cards-image-wrapper">
-                            <img src="../assets/images/ecom-c-m-image-c-3.png" alt="">
+                            <img src="../assets/images/best-customer-experience.gif" alt="">
                         </div>
-                        <h4>
-                            Ongoing split testing of landing page variations, headlines, copy, and CTAs to enable data-driven optimizations for maximizing conversions. </h4>
-                    </div>
+                        <h3>17 +</h3>
+                        <p>Years Experience</p>
                 </div>
             </div>
         </div>
@@ -64,19 +64,13 @@
         <div class="container">
             <div class="strategic-content text-center">
                 <h2>
-                    Ecommerce Landing Page Design That Increases Conversions
+                    Journal publication With You<br> Until Your Paper Gets Published
                 </h2>
-                <p>
-                    Directing shoppers to your product, category, or home page isn't always the best strategy, especially when dealing with visitors unfamiliar with your brand or products. In such cases, your ability to persuade them to purchase may be limited. </p>
-                <p>
-                    This is where our custom ecommerce landing page design services shine. Partnering with us means tapping into our expertise and advanced ecommerce strategies to create and launch stunning, high-performing landing pages for your business. But we don’t stop there—our optimization efforts ensure continuous refinement, testing, and improvement of your landing pages to discover the most effective ways to convert visitors into buyers. </p>
-                <p>
-                    Our premium landing pages are designed to captivate visitors and deepen their engagement with your brand. We'll showcase your products' benefits and unique appeal while emphasizing their value through compelling social proof. Clear, persuasive calls-to-action guide visitors to take the next step, turning them into loyal customers. Complementing this, our ecommerce PPC services drive highly qualified traffic to these optimized landing pages, ensuring maximum ROI. </p>
-                <p>
-                    As the saying goes, a picture is worth a thousand words. To see our high-quality landing pages in action, explore our custom landing page design portfolio. </p>
-
+                <p>We provide rejection shield to our clients ranging from unlimited editing content, cover letter <br>and reformatting paper of the manuscript to ensure publish-ready quality FREE for 365 days</p>
+            <h3>4.8 <br>REVIEW</h3>
             </div>
             <div class="row">
+                <h3 class="text-center">Diverse English Editing Services</h3>
                 <div class="col-lg-4">
                     <div class="ppc-cards">
                         <h3>Ecommerce Landing <span> <br>Page Design</span> </h3>

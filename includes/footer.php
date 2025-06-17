@@ -32,18 +32,18 @@
         <div class="col-md-3 navftr col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
           <a class="footer-logo" href="/"><img class="img-fluid" src="../assets/images/Tab-Soft-Marketing.png" alt=""></a>
-          <p>Tabsoft Marketing was founded by entrepreneurs who have been<br> there and done that.</p>
+          <p>Buzzline Digital was founded by entrepreneurs who have been<br> there and done that.</p>
           <h6 class="text-uppercase fw-bold ">
             Follow Us
           </h6>
           <div class="footer-social-links">
-            <a href="https://www.facebook.com/Tabsoftmarketing/" target="_blank">
+            <a href="https://www.facebook.com/buzzlinedigital.com/" target="_blank">
               <i class="bi bi-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/Tabsoftmarketing/" target="_blank">
+            <a href="https://www.instagram.com/buzzlinedigital.com/" target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
-            <!-- <a href="https://www.linkedin.com/company/Tabsoftagency/" target="_blank">
+            <!-- <a href="https://www.linkedin.com/company/Buzzline Digitalagency/" target="_blank">
               <i class="bi bi-linkedin"></i>
             </a> -->
             <!-- <a href="">
@@ -112,14 +112,14 @@
 
             <div class="foot-slid-div-2">
               <h6 class="text-uppercase fw-bold mb-4">Contact Information</h6>
-              <p><a href="https://maps.app.goo.gl/R63meTCMnTEWQhJK6" target="_blank"><i class="fas fa-home me-3"></i>4952 10th Ave N, Greenacres, <br> FL 33463, United States</a></p>
+              <p><a href="#" target="_blank"><i class="fas fa-home me-3"></i>4952 10th Ave N, Greenacres, <br> FL 33463, United States</a></p>
               <p>
-                <a href="mailto:query@tabsoftmarketing.com">
+                <a href="mailto:query@buzzlinedigital.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@tabsoftmarketing.com
+                  query@buzzlinedigital.com
                 </a>
               </p>
-              <p><a href="tel:(888) 205-2301"><i class="fas fa-phone me-3"></i> (888) 205-2301</a></p>
+              <p><a href="tel:+447383321172"><i class="fas fa-phone me-3"></i> +447383321172</a></p>
             </div>
           </div>
           <div class="footer-slider-div">
@@ -145,7 +145,7 @@
   <!-- Copyright -->
   <div class="text-center  bottom-footer">
     <div class="bottom-footer-p-1">
-      <p>© 2024-25 Copyrights <b>Tabsoft Marketing</b> All Rights Reserved.</p>
+      <p>© 2024-25 Copyrights <b>Buzzline Digital</b> All Rights Reserved.</p>
     </div>
     <div class="bottom-footer-p-2">
       <!-- <p>
@@ -226,7 +226,7 @@
             </fieldset>
 
             <input type="hidden" name="route" value="model-get-a-quote/" />
-            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+            <input type="hidden" name="brand" value="Buzzline Digital" />
             <input type="hidden" name="token" value="<?= $token; ?>" />
             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
             <input type="hidden" name="price" value="null" />
@@ -294,16 +294,6 @@
   });
 </script> -->
 
-<script>
-  $('.telsubmit').on('submit', function(e) {
-    if ($('.selected-flag').length > 0) {
-      var countrycode = $('.selected-flag').attr('title');
-      $('.telsubmit').append($(`<input type="hidden" name="countrycode" value="${countrycode}" />`))
-      $(this).submit();
-    }
-    return true;
-  })
-</script>
 
 <!-- <script>
   $(document).ready(function () {

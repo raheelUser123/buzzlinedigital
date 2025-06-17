@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/technical-seo-services/";
-$metaTitle = "Professional Technical SEO Services – Tabsoft Marketing";
+$metaUrl = "https://www.buzzlinedigital.com.com/technical-seo-services/";
+$metaTitle = "Professional Technical SEO Services – Buzzline Digital";
 $metaDescription = "Boost your search rankings and build a strong website with technical SEO services that focus on giving users a better experience.";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -56,7 +53,7 @@ include_once("includes/head.php");
                         We know that handling the complex aspects of SEO while running your business can be overwhelming and time-consuming. That’s why our expert technical SEO consultants are here to take the load off.
                     </p>
                     <p>
-                        Is your website’s technical SEO holding back your rankings? Let our team at Tabsoft Marketing handle the hard work. Trust us with your SEO audit and optimization, and watch your business grow.
+                        Is your website’s technical SEO holding back your rankings? Let our team at Buzzline Digital handle the hard work. Trust us with your SEO audit and optimization, and watch your business grow.
 
                     </p>
                     <div class="personalized-button">
@@ -449,7 +446,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="technical-seo-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -471,7 +468,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                Tabsoft Marketing transformed our web site's performance with their technical SEO strategies. From optimizing our site speed to fixing crawl errors, their attention to detail and deep knowledge have significantly improved our rankings. Highly recommended!
+                                Buzzline Digital transformed our web site's performance with their technical SEO strategies. From optimizing our site speed to fixing crawl errors, their attention to detail and deep knowledge have significantly improved our rankings. Highly recommended!
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -491,7 +488,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                We partnered with Tabsoft Marketing to resolve several technical SEO issues, and they exceeded our expectations. Their team streamlined our website's structure, improved our mobile usability, and helped us achieve measurable results in record time.
+                                We partnered with Buzzline Digital to resolve several technical SEO issues, and they exceeded our expectations. Their team streamlined our website's structure, improved our mobile usability, and helped us achieve measurable results in record time.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -510,7 +507,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                Our eCommerce site had multiple technical SEO challenges, and Tabsoft Marketing tackled them all with ease. Their expertise in backlink analysis and penalty recovery has elevated our site’s authority and also its search visibility.
+                                Our eCommerce site had multiple technical SEO challenges, and Buzzline Digital tackled them all with ease. Their expertise in backlink analysis and penalty recovery has elevated our site’s authority and also its search visibility.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -529,7 +526,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                Working with Tabsoft Marketing was a pleasure. They not only delivered exceptional technical SEO solutions but also kept us informed every step of the way. Our website’s organic traffic has grown tremendously thanks to their efforts.
+                                Working with Buzzline Digital was a pleasure. They not only delivered exceptional technical SEO solutions but also kept us informed every step of the way. Our website’s organic traffic has grown tremendously thanks to their efforts.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/seo-services/";
-$metaTitle = "SEO Services by Tabsoft Marketing – That Businesses Trust Most";
+$metaUrl = "https://www.buzzlinedigital.com.com/seo-services/";
+$metaTitle = "SEO Services by Buzzline Digital – That Businesses Trust Most";
 $metaDescription = " Increase your site's rankings with a result-driven SEO company. We offer professional SEO services, delivering consistent results.";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -53,7 +50,7 @@ include_once("includes/head.php");
                         In today's crowded digital world, simply having a website isn't enough. Standing out and attracting customers requires a strategic approach; that is where we shine. We understand the intricacies of SEO and offer affordable, results-driven services to propel <b>your business to the top of search engine results pages (SERPs).</b>
                     </p>
                     <p>
-                        The first page of Google is the ultimate battleground for online visibility. At <b>Tabsoft Marketing,</b> we're equipped with the expertise and tools to help you conquer it. Our team of SEO experts stays ahead of the latest algorithm updates and employs proven strategies to drive organic traffic to your website
+                        The first page of Google is the ultimate battleground for online visibility. At <b>Buzzline Digital,</b> we're equipped with the expertise and tools to help you conquer it. Our team of SEO experts stays ahead of the latest algorithm updates and employs proven strategies to drive organic traffic to your website
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -93,7 +90,7 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>Unable to Maximize Your Online Visibility Globally?</h2>
                 <p>
-                    It can be the following issues. Hire Tabsoft Marketing to tackle them.
+                    It can be the following issues. Hire Buzzline Digital to tackle them.
                 </p>
             </div>
             <div class="row">
@@ -435,7 +432,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="seo-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -495,7 +492,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "I was looking for an SEO company that could help me improve my local search rankings. Tabsoft Marketing delivered! They implemented a comprehensive local SEO strategy that included optimizing my Google My Business profile, building citations, and creating location-based content. My business is now showing up on the first page of Google for relevant searches."
+                                "I was looking for an SEO company that could help me improve my local search rankings. Buzzline Digital delivered! They implemented a comprehensive local SEO strategy that included optimizing my Google My Business profile, building citations, and creating location-based content. My business is now showing up on the first page of Google for relevant searches."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -514,7 +511,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "I'm a small business owner and was worried about the cost of SEO. Tabsoft Marketing offered a flexible pricing plan that fit my budget. They were also very responsive and communicative throughout the entire process. I'm happy with the results and would recommend them to anyone looking for affordable and effective SEO services."
+                                "I'm a small business owner and was worried about the cost of SEO. Buzzline Digital offered a flexible pricing plan that fit my budget. They were also very responsive and communicative throughout the entire process. I'm happy with the results and would recommend them to anyone looking for affordable and effective SEO services."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -549,7 +546,7 @@ include_once("includes/head.php");
             },
             {
                 "type": "Question",
-                "name": "Why should I choose Tabsoft Marketing for SEO?",
+                "name": "Why should I choose Buzzline Digital for SEO?",
                 "acceptedAnswer": {
                     "type": "Answer",
                     "text": "We're experts: Our team has years of experience in developing and implementing successful SEO strategies. Data-driven approach: We rely on data and analytics to make informed decisions and track progress. Transparent communication: We keep you updated on the progress of your campaign and provide regular reports. Customized solutions: We tailor our services to your specific needs and budget. Focus on results: Our goal is to increase your website traffic, improve your online visibility, and drive more leads and sales."
@@ -623,7 +620,7 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            Why should I choose Tabsoft Marketing for SEO?
+                            Why should I choose Buzzline Digital for SEO?
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -739,7 +736,7 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!";
+    <?php $headingText = "Get Started with Buzzline Digital and <br> Dominate Search Results!";
     include_once("includes/footer.php") ?>
 
 

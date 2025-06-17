@@ -17,7 +17,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<span>Websites Design and Development Services</span> that Leave a Lasting Impression
 					</h2>
 					<p>
-						At Tabsoft Marketing, we specialize in creating bespoke websites that blend visual appeal with functionality. Our goal is to deliver a seamless digital experience that captivates visitors and drives your business forward.
+						At Buzzline Digital, we specialize in creating bespoke websites that blend visual appeal with functionality. Our goal is to deliver a seamless digital experience that captivates visitors and drives your business forward.
 					</p>
 					<div class="service-button">
 						<a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
@@ -33,7 +33,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-lg-6">
 					<h2>Build Your Online Presence with Expert Web Design and <span>Development</span></h2>
 					<p>
-						At Tabsoft Marketing, we take pride in our ability to craft high performance websites that not only look stunning but also function seamlessly. Our expert web development services are designed to bring your unique vision to life, ensuring that your website not only reflects your brand identity but also resonates with your target audience. From the initial concept to the final launch, our dedicated team works tirelessly to ensure that every aspect of your website exceeds expectation
+						At Buzzline Digital, we take pride in our ability to craft high performance websites that not only look stunning but also function seamlessly. Our expert web development services are designed to bring your unique vision to life, ensuring that your website not only reflects your brand identity but also resonates with your target audience. From the initial concept to the final launch, our dedicated team works tirelessly to ensure that every aspect of your website exceeds expectation
 					</p>
 				</div>
 				<div class="col-lg-6">
@@ -268,9 +268,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 
 			<div class="why-choose-tab-website-design">
-				<p><b>Why Choose Tabsoft Marketing for Website Design and Development?</b></p>
+				<p><b>Why Choose Buzzline Digital for Website Design and Development?</b></p>
 				<p>
-					Tabsoft Marketing offers a holistic approach to website design and development, combining creativity with technical expertise. <br>
+					Buzzline Digital offers a holistic approach to website design and development, combining creativity with technical expertise. <br>
 					Our tailored solutions ensure your website stands out, engages visitors, and achieves your business goals.
 				</p>
 			</div>

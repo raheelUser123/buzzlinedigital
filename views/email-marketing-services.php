@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.tabsoftmarketing.com/email-marketing-services/";
-$metaTitle = " Top Email Marketing Services | Tabsoft Marketing";
+$metaUrl = "https://www.buzzlinedigital.com.com/email-marketing-services/";
+$metaTitle = " Top Email Marketing Services | Buzzline Digital";
 $metaDescription = "Get the best email marketing services to boost engagement, drive sales, and grow your business with effective email campaigns.";
 include_once("includes/head.php");
 ?>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -95,7 +92,7 @@ include_once("includes/head.php");
                         Drive Business Growth with <br>Effective<span> Email Marketing</span>
                     </h3>
                     <p>
-                        Tabsoft Marketing is a company that helps other businesses grow by using email marketing. We act like an extra part of your team, working closely with your own staff to come up with new ideas and help your business expand. We focus on getting real results and building lasting relationships with our clients.
+                        Buzzline Digital is a company that helps other businesses grow by using email marketing. We act like an extra part of your team, working closely with your own staff to come up with new ideas and help your business expand. We focus on getting real results and building lasting relationships with our clients.
                     </p>
                     <p>
                         We value being honest, keeping in touch, and always trying to do better. This means we make sure we understand your goals and can change our approach as your needs change. When you work with us, you can be sure your email marketing is always up-to-date and effective. We're proud to be recognized by Clutch, a well-known ratings and reviews platform, as a top company in email marketing.
@@ -197,7 +194,7 @@ include_once("includes/head.php");
                     <h2>Unlock the Power of Email Marketing<br> for Your Business with Effective Campaigns
                     </h2>
                     <p>
-                        Email marketing offers a unique opportunity to connect with your ideal audience at the perfect time, driving engagement and boosting sales. Partner with Tabsoft Marketing to craft goal-oriented email campaigns tailored to your business objectives. Let us help you turn email into your most effective marketing asset.
+                        Email marketing offers a unique opportunity to connect with your ideal audience at the perfect time, driving engagement and boosting sales. Partner with Buzzline Digital to craft goal-oriented email campaigns tailored to your business objectives. Let us help you turn email into your most effective marketing asset.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -399,7 +396,7 @@ include_once("includes/head.php");
                             Email marketing remains a powerhouse for lead generation and conversions, even in today's diverse digital landscape. Research indicates that email is still the preferred channel for brand communication for nearly 61% of consumers, transcending age and gender demographics.
                         </p>
                         <p>
-                            At Tabsoft Marketing, we leverage cutting-edge email marketing technology and ongoing training to provide valuable marketing automation services that drive profitability. Here's how we do email marketing to fuel growth for our clients.
+                            At Buzzline Digital, we leverage cutting-edge email marketing technology and ongoing training to provide valuable marketing automation services that drive profitability. Here's how we do email marketing to fuel growth for our clients.
                         </p>
                         <!-- <div class="highlight">
                             <p>
@@ -551,7 +548,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="email-marketing-services/" />
-                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
+                            <input type="hidden" name="brand" value="Buzzline Digital" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -573,7 +570,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "Tabsoft Marketing has been instrumental in revamping our email marketing strategy. Their expertise in automation and segmentation has significantly improved our engagement rates and lead generation. We've seen a measurable ROI since partnering with them."
+                                "Buzzline Digital has been instrumental in revamping our email marketing strategy. Their expertise in automation and segmentation has significantly improved our engagement rates and lead generation. We've seen a measurable ROI since partnering with them."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -593,7 +590,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                "As a small business owner, I was hesitant to invest in email marketing. However, Tabsoft Marketing made the process seamless and affordable. Their personalized approach and attention to detail have helped us connect with our customers on a deeper level and drive repeat business."
+                                "As a small business owner, I was hesitant to invest in email marketing. However, Buzzline Digital made the process seamless and affordable. Their personalized approach and attention to detail have helped us connect with our customers on a deeper level and drive repeat business."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -613,7 +610,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                "Tabsoft Marketing's team is highly skilled and professional. They quickly understood our business needs and developed a tailored email marketing strategy that aligned with our growth objectives. Their reporting and analytics are top-notch, providing us with valuable insights to optimize our campaigns."
+                                "Buzzline Digital's team is highly skilled and professional. They quickly understood our business needs and developed a tailored email marketing strategy that aligned with our growth objectives. Their reporting and analytics are top-notch, providing us with valuable insights to optimize our campaigns."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -632,7 +629,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                "We were struggling with low conversion rates from our email campaigns. Tabsoft Marketing helped us revamp our email templates, improve our messaging, and implement effective A/B testing. The results have been impressive, with a significant increase in click-through and conversion rates."
+                                "We were struggling with low conversion rates from our email campaigns. Buzzline Digital helped us revamp our email templates, improve our messaging, and implement effective A/B testing. The results have been impressive, with a significant increase in click-through and conversion rates."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -658,7 +655,7 @@ include_once("includes/head.php");
             "@type": "FAQPage",
             "mainEntity": [{
                     "@type": "Question",
-                    "name": "What email marketing services does Tabsoft Marketing offer?",
+                    "name": "What email marketing services does Buzzline Digital offer?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "We offer a full range of email marketing services, including strategy development, email template design, list segmentation, automation, campaign management, reporting, and analytics."
@@ -698,7 +695,7 @@ include_once("includes/head.php");
                 },
                 {
                     "@type": "Question",
-                    "name": "How do I get started with Tabsoft Marketing?",
+                    "name": "How do I get started with Buzzline Digital?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Simply contact us through our website or give us a call. We'll schedule a free consultation to discuss your business goals and how our email marketing services can help you achieve them."
@@ -717,7 +714,7 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What email marketing services does Tabsoft Marketing offer?
+                            What email marketing services does Buzzline Digital offer?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
@@ -787,7 +784,7 @@ include_once("includes/head.php");
                         <h2 class="accordion-header" id="headingSix">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                How do I get started with Tabsoft Marketing?
+                                How do I get started with Buzzline Digital?
                             </button>
                         </h2>
                         <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
@@ -834,13 +831,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose Tabsoft Marketing over other digital marketing firms?
+                            Why should I choose Buzzline Digital over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to
+                            Buzzline Digital stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -851,13 +848,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with Tabsoft Marketing?
+                            How can I get started with Buzzline Digital?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or
+                            Getting started with Buzzline Digital is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>

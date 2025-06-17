@@ -4,67 +4,65 @@
 
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+
 
     <?php include_once("includes/header.php") ?>
     <section id="hero-section">
-        <div class="container">
-            <div class="row-im">
-                <div class="col-lg-12">
-                    <div class="row">
-                        <div class="col-lg-7">
-                            <div class="hero-sec-content">
-                                <p>Dominate Your Industry With</p>
-                                <h1> <b>Tabsoft </b> Digital Marketing Services </h1>
-                                <p>
-                                    Trusted by top brands worldwide, we help businesses of every size prosper online <br>
-                                    with result-driven ad management and <b>Digital Marketing services</b>
-                                    such as <b>META ads</b> <br> and <b> SEO.</b> Let's work together to increase leads, boost sales, and build your brand <br>
-                                    to achieve your goals
-                                </p>
+    <div class="container">
+        <div class="row-im">
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="hero-sec-content">
+                            <p>Stand Out in Your Market With</p>
+                            <h1> <b>Buzzline Digital</b> Marketing Solutions </h1>
+                            <p>
+                                Trusted by leading brands globally, we empower businesses of all sizes to thrive online 
+                                through strategic ad campaigns and <b>digital marketing services</b>
+                                including <b>META advertising</b> and <b>SEO.</b> Let’s collaborate to drive more leads, boost sales, and strengthen your brand 
+                                to reach your business goals.
+                            </p>
+                        </div>
+                        <div class="hero-content-2">
+                            <div class="trustpilot-image-wrapper">
+                                <img src="../assets/images/hero-badge-image.png" alt="Hero Badge Icon">
                             </div>
-                            <div class="hero-content-2">
-                                <div class="trustpilot-image-wrapper">
-                                    <img src="../assets/images/hero-badge-image.png" alt="Hero Badge Icon">
+                            <div class="client-hero-image-parent">
+                                <div class="client-image-wrapper">
+                                    <img src="../assets/images/hero-trustpilot-client.png" alt="Trustpilot Client Review Badge">
                                 </div>
-                                <div class="client-hero-image-parent">
-                                    <div class="client-image-wrapper">
-                                        <img src="../assets/images/hero-trustpilot-client.png" alt="Trustpilot Client Review Badge">
+                                <div class="client-stars">
+                                    <div class="client-star-div">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star"></i>
                                     </div>
-                                    <div class="client-stars">
-                                        <div class="client-star-div">
-                                            <i class="bi bi-star-fill"></i>
-                                            <i class="bi bi-star-fill"></i>
-                                            <i class="bi bi-star-fill"></i>
-                                            <i class="bi bi-star-fill"></i>
-                                            <i class="bi bi-star"></i>
-                                        </div>
-                                        <div class="client-reviews">
-                                            <p>450+ reviews</p>
-                                        </div>
+                                    <div class="client-reviews">
+                                        <p>450+ reviews</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="hero-quote">
-                                <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
                             </div>
                         </div>
-                        <div class="col-lg-5">
-                            <div class="hero-sec-gif-wrapper">
-                                <img src="../assets/images/hero-sec-gif.gif" alt="Animated Hero Section Graphic">
-                            </div>
+                        <div class="hero-quote">
+                            <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="hero-sec-gif-wrapper">
+                            <img src="../assets/images/hero-sec-gif.gif" alt="Animated Hero Section Graphic">
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- <div class="hero-text-image-wrapper">
-                <img src="../assets/images/hero-text.png" alt="">
-            </div> -->
         </div>
-    </section>
+        <!-- <div class="hero-text-image-wrapper">
+            <img src="../assets/images/hero-text.png" alt="">
+        </div> -->
+    </div>
+</section>
+
     <section id="trusted-by">
         <div class="container">
             <div class="row">
@@ -103,123 +101,124 @@
             </div>
         </div>
     </section>
-    <section id="our-marketing-partners">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <p class="market">Our Strategic Allies</p>
-                    <h2>We offer our clients <br>
-                        unparalleled access and <br>
-                        expertise through long- <br>
-                        term partnerships <br>
-                        with <span>top advertising</span> <br>
-                        platforms. </h2>
-                </div>
-                <div class="col-lg-6">
-                    <div class="row">
-                        <div class="col-lg-4">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/meta-partners-2.jpg" alt="Meta Partner">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-3.jpg" alt="Marketing Partner 3">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-4.webp" alt="Marketing Partner 4">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-5.webp" alt="Marketing Partner 5">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-6.webp" alt="Marketing Partner 6">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-7.jpg" alt="Marketing Partner 7">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-3">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-8.jpg" alt="Marketing Partner 8">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/snapchat.jpg" alt="Snapchat Partner">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-10.jpg" alt="Marketing Partner 10">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="marketing-partners-card">
-                                <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-11.jpg" alt="Marketing Partner 11">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+   <section id="our-marketing-partners">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <p class="market">Our Marketing Collaborators</p>
+                <h2>Through strong, long-term alliances
+                    with the world’s <span>leading advertising</span> 
+                    platforms, we provide our clients 
+                    unmatched access, reach, and 
+                    marketing expertise.</h2>
             </div>
-        </div>
-    </section>
-    <section id="sales-gross">
-        <div class="container">
-            <div class="omni-sales-div">
+            <div class="col-lg-6">
                 <div class="row">
                     <div class="col-lg-4">
-                        <div class="omni-sales-card">
-                            <h2>$999M+</h2>
-                            <h6>Spent in Ad Management</h6>
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/meta-partners-2.jpg" alt="Official Meta Marketing Partner">
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4">
-                        <div class="omni-sales-card">
-                            <h2>$3B+</h2>
-                            <h6>Revenue Generated for Our Clients</h6>
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-3.jpg" alt="Verified Ad Partner 3">
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4">
-                        <div class="omni-sales-card">
-                            <h2>50M+</h2>
-                            <h6>Leads Generated</h6>
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-4.webp" alt="Digital Advertising Partner 4">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-5.webp" alt="Certified Marketing Partner 5">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-6.webp" alt="Trusted Partner 6">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-7.jpg" alt="Strategic Ad Partner 7">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-8.jpg" alt="Media Partner 8">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/snapchat.jpg" alt="Snapchat Advertising Partner">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-10.jpg" alt="Performance Partner 10">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="marketing-partners-card">
+                            <div class="marketing-partners-image-wrapper">
+                                <img src="../assets/images/Partner-11.jpg" alt="Marketing Collaboration Partner 11">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
+    <section id="sales-gross">
+    <div class="container">
+        <div class="omni-sales-div">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="omni-sales-card">
+                        <h2>$999M+</h2>
+                        <h6>Total Ad Spend Managed</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="omni-sales-card">
+                        <h2>$3B+</h2>
+                        <h6>Revenue Delivered to Clients</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="omni-sales-card">
+                        <h2>50M+</h2>
+                        <h6>Leads Successfully Acquired</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
     <section id="custom-optimization">
         <div class="container">
             <div class="row">
@@ -677,10 +676,10 @@
             "type": "FAQPage",
             "mainEntity": [{
                     "type": "Question",
-                    "name": "What digital marketing services does Tabsoft Marketing offer?",
+                    "name": "What digital marketing services does Buzzline Digital offer?",
                     "acceptedAnswer": {
                         "type": "Answer",
-                        "text": "Tabsoft Marketing provides a comprehensive suite of digital marketing services, including Ad Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and Social Media Marketing."
+                        "text": "Buzzline Digital provides a comprehensive suite of digital marketing services, including Ad Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and Social Media Marketing."
                     }
                 },
                 {
@@ -701,7 +700,7 @@
                 },
                 {
                     "type": "Question",
-                    "name": "Can Tabsoft Marketing help with my business's SEO needs?",
+                    "name": "Can Buzzline Digital help with my business's SEO needs?",
                     "acceptedAnswer": {
                         "type": "Answer",
                         "text": "Absolutely! Our SEO experts focus on improving your site's visibility by enhancing your search engine rankings through optimized content, strategic keyword placement, and building a robust backlink profile. We tailor our SEO strategies to meet the specific needs of your business, helping you attract more organic traffic."
@@ -741,18 +740,18 @@
                 },
                 {
                     "type": "Question",
-                    "name": "Why should I choose Tabsoft Marketing over other digital marketing firms?",
+                    "name": "Why should I choose Buzzline Digital over other digital marketing firms?",
                     "acceptedAnswer": {
                         "type": "Answer",
-                        "text": "Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to the client's specific goals. Our team of experts leverages the latest digital marketing tools and analytics to ensure optimal performance and results. Plus, our commitment to transparency and client communication ensures you are always informed and in control."
+                        "text": "Buzzline Digital stands out due to our customized approach, where each strategy is tailored to the client's specific goals. Our team of experts leverages the latest digital marketing tools and analytics to ensure optimal performance and results. Plus, our commitment to transparency and client communication ensures you are always informed and in control."
                     }
                 },
                 {
                     "type": "Question",
-                    "name": "How can I get started with Tabsoft Marketing?",
+                    "name": "How can I get started with Buzzline Digital?",
                     "acceptedAnswer": {
                         "type": "Answer",
-                        "text": "Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or phone. We'll arrange an initial consultation to discuss your needs and objectives and then propose a tailored strategy to help your business succeed in the digital world."
+                        "text": "Getting started with Buzzline Digital is easy! Simply contact us via our website, email, or phone. We'll arrange an initial consultation to discuss your needs and objectives and then propose a tailored strategy to help your business succeed in the digital world."
                     }
                 }
             ]
@@ -768,13 +767,13 @@
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What digital marketing services does Tabsoft Marketing offer?
+                            What digital marketing services does Buzzline Digital offer?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Tabsoft Marketing provides a comprehensive suite of digital marketing services, including Ad
+                            Buzzline Digital provides a comprehensive suite of digital marketing services, including Ad
                             Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon
                             Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and
                             Social Media Marketing.
@@ -819,7 +818,7 @@
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            Can Tabsoft Marketing help with my business's SEO needs?
+                            Can Buzzline Digital help with my business's SEO needs?
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -903,13 +902,13 @@
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose Tabsoft Marketing over other digital marketing firms?
+                            Why should I choose Buzzline Digital over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to
+                            Buzzline Digital stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -920,13 +919,13 @@
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with Tabsoft Marketing?
+                            How can I get started with Buzzline Digital?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or
+                            Getting started with Buzzline Digital is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>

@@ -42,14 +42,20 @@
         
         <li class="nav-item dropdown px-lg-1">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Design & Development
+            Area of Expertise
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <div class="custom-inner">
-              <li><a class="dropdown-item" href="#">Hire Shopify Developer</a></li>
+              <li><a class="dropdown-item" href="/english-editing-services/">English Editing Services</a></li>
             </div>
             <div class="custom-inner">
-              <li><a class="dropdown-item" href="#">Web Designs & Development</a></li>
+              <li><a class="dropdown-item" href="#">Scientific Editing Services</a></li>
+            </div>
+            <div class="custom-inner">
+              <li><a class="dropdown-item" href="#">Case Report Editing</a></li>
+            </div>
+            <div class="custom-inner">
+              <li><a class="dropdown-item" href="#">Thesis Editing Services</a></li>
             </div>
           </ul>
         </li>
