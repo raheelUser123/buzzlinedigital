@@ -105,12 +105,12 @@ include_once("includes/head.php");
           </h2>
           <div class="office-detail-paragraph">
             <div class="address-main-paragraph">
-              <h5> Greenacres FL 33463</h5>
-              <p><a href="https://maps.app.goo.gl/1Q5MMi9gYgh8A1HT9">4952 10th Ave N Greenacres FL 33463</a></p>
+              <h5> United Kingdom </h5>
+              <p><a href="#">1244 United Kingdom 12121</a></p>
             </div>
             <div class="office-number-addresss">
               <hr>
-              <p><a href="tel:(561) 473-4214"><i class="fas fa-phone me-3"></i> (561) 473-4214</a></p>
+              <p><a href="tel:+447383321172"><i class="fas fa-phone me-3"></i> +447383321172</a></p>
               <p>
               <a href="mailto:query@buzzlinedigital.com">
                   <i class="fas fa-envelope me-3"></i>

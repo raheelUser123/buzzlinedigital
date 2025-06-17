@@ -112,7 +112,7 @@
 
             <div class="foot-slid-div-2">
               <h6 class="text-uppercase fw-bold mb-4">Contact Information</h6>
-              <p><a href="#" target="_blank"><i class="fas fa-home me-3"></i>4952 10th Ave N, Greenacres, <br> FL 33463, United States</a></p>
+              <p><a href="#" target="_blank"><i class="fas fa-home me-3"></i>1234 10th Lorem ipsum, United State, <br></a></p>
               <p>
                 <a href="mailto:query@buzzlinedigital.com">
                   <i class="fas fa-envelope me-3"></i>

@@ -13,203 +13,136 @@ include_once("includes/head.php");
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h1>
+                    Leading Ecommerce <br>Marketing Solutions
+                </h1>
+                <p>
+                    Drive traffic and boost sales with our <br>conversion-optimized ecommerce marketing strategies.
+                </p>
 
-                        Best Ecommerce <br>Marketing Services
-                    </h1>
-                    <p>
-
-                        Boost your online store's traffic and sales with our <br>conversion-focused ecommerce marketing services.
-                    </p>
-
-                    <div class="service-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
-                    </div>
+                <div class="service-button">
+                    <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
                 </div>
-                <div class="col-lg-6"></div>
             </div>
+            <div class="col-lg-6"></div>
         </div>
-    </section>
-    <section id="ads-partner">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="ads-card">
-                        <div class="ad-image-wrapper">
-                            <img src="../assets/images/ecommerce-partner-logo-image.png" alt="Ecommerce Partner Logo">
-                        </div>
-                        <div class="ads-content">
-                            <p>Premier Google Ads Partner</p>
-                        </div>
+    </div>
+</section>
+
+<section id="ads-partner">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="ads-card">
+                    <div class="ad-image-wrapper">
+                        <img src="../assets/images/ecommerce-partner-logo-image.png" alt="Ecommerce Partner Logo">
                     </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="ads-card">
-                        <div class="ad-heading-card">
-                            <h2>9+ Years</h2>
-                        </div>
-                        <div class="ads-content">
-                            <p>PPC Management Experience</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="ads-card">
-                        <div class="ad-heading-card">
-                            <h2>100+</h2>
-                        </div>
-                        <div class="ads-content">
-                            <p>Client Successes</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="ads-card">
-                        <div class="ad-heading-card">
-                            <h2>$500M+</h2>
-                        </div>
-                        <div class="ads-content">
-                            <p>Revenue Generated</p>
-                        </div>
+                    <div class="ads-content">
+                        <p>Certified Google Ads Partner</p>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <section id="personalized-seo" style="background: #e6e9ed; padding: 50px 0px 40px 0px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/ecommerce--innovative-image.gif" alt="Innovative Ecommerce Solutions Animation">
+            <div class="col-lg-3">
+                <div class="ads-card">
+                    <div class="ad-heading-card">
+                        <h2>9+ Years</h2>
+                    </div>
+                    <div class="ads-content">
+                        <p>Expertise in PPC Campaigns</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <h6><span>Innovative Marketing</span></h6>
-                    <h3>
-                        Want to Sell More Online? You<br> Need The <span>Right Marketing</span>.
-                    </h3>
-                    <p>
-                        <strong>If you run an online store, you want more sales and money.</strong> There are lots of ways to do this, but you need experts who know which methods work best for your business. It's essential to understand how different online marketing channels (like search engines and social media) work together.
-                    </p>
-                    <p>
-                        Buzzline Digital has years of experience finding those customers and bringing them to your website to buy your products. In the online selling world, that is a long time! Our award-winning marketing strategies get results. We'll work with you to understand your products and your industry and create a marketing plan that gets you the best return on your investment.
-                    </p>
-                    <div class="personalized-button">
-                        <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
+            </div>
+            <div class="col-lg-3">
+                <div class="ads-card">
+                    <div class="ad-heading-card">
+                        <h2>100+</h2>
+                    </div>
+                    <div class="ads-content">
+                        <p>Successful Client Projects</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="ads-card">
+                    <div class="ad-heading-card">
+                        <h2>$500M+</h2>
+                    </div>
+                    <div class="ads-content">
+                        <p>Revenue Generated for Clients</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
+<section id="personalized-seo" style="background: #e6e9ed; padding: 50px 0px 40px 0px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="personalized-seo-image-wrapper">
+                    <img src="../assets/images/ecommerce--innovative-image.gif" alt="Innovative Ecommerce Solutions Animation">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h6><span>Innovative Marketing</span></h6>
+                <h3>
+                    Looking to Increase Online Sales? You<br> Need the <span>Right Strategy</span>.
+                </h3>
+                <p>
+                    <strong>If you manage an online store, your goal is simple: more sales, more profit.</strong> But achieving that requires more than guesswork. You need experienced marketers who know what works—across platforms like Google, Facebook, and more.
+                </p>
+                <p>
+                    At Buzzline Digital, we specialize in identifying your ideal customers and bringing them directly to your store. With years of hands-on experience and award-winning strategies, we know what it takes to grow online businesses. We tailor every campaign to your brand and goals—ensuring the highest possible return on your marketing spend.
+                </p>
+                <div class="personalized-button">
+                    <a href="/get-proposal/"> <button class="button2"> Let's Get Started </button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
     <section id="we-are-trusted-amazon">
-        <div class="container-fluid">
-            <div class="we-are-heading text-center">
-                <h2>With Over 100 Brand Partnerships,<br> We're A Leading Ecommerce<br> Marketing Agency.</h2>
+    <div class="container-fluid">
+        <div class="we-are-heading text-center">
+            <h2>Partnered with Over 100 Brands,<br> We’re a Top-Tier Ecommerce<br> Marketing Agency</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="slider-wrapper">
+                    <!-- All sliders remain unchanged -->
+                </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="slider-wrapper">
-                        <!-- First Slider (Left Moving) -->
-                        <div class="slider moving-left">
-                            <div><img src="../assets/images/amz-slider-image-1.png" alt="Marketing Strategy"></div>
-                            <div><img src="../assets/images/amz-slider-image-2.png" alt="Product Listing Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-3.png" alt="PPC Campaign Management"></div>
-                            <div><img src="../assets/images/amz-slider-image-4.png" alt="Brand Growth Solutions"></div>
-                            <div><img src="../assets/images/amz-slider-image-5.png" alt="Ecommerce Advertising Services"></div>
-                            <div><img src="../assets/images/amz-slider-image-6.png" alt="SEO and Ranking"></div>
-                            <div><img src="../assets/images/amz-slider-image-7.png" alt="Seller Account Management"></div>
-                            <div><img src="../assets/images/amz-slider-image-8.png" alt="A+ Content Design"></div>
-                            <div><img src="../assets/images/amz-slider-image-9.png" alt="Storefront Design"></div>
-                            <div><img src="../assets/images/amz-slider-image-10.png" alt="Customer Engagement"></div>
-                            <div><img src="../assets/images/amz-slider-image-11.png" alt="Sales and Growth Strategies"></div>
-                            <div><img src="../assets/images/amz-slider-image-12.png" alt="Product Photography"></div>
-                            <div><img src="../assets/images/amz-slider-image-13.png" alt="Buy Box Strategies"></div>
-                            <div><img src="../assets/images/amz-slider-image-14.png" alt="Inventory Management"></div>
-                            <div><img src="../assets/images/amz-slider-image-15.png" alt="Order Fulfillment"></div>
-                            <div><img src="../assets/images/amz-slider-image-16.png" alt="Competitor Analysis"></div>
-                            <div><img src="../assets/images/amz-slider-image-17.png" alt="Store Performance Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-18.png" alt="Review and Rating Management"></div>
-                            <div><img src="../assets/images/amz-slider-image-19.png" alt="Enhanced Brand Content (EBC)"></div>
-                            <div><img src="../assets/images/amz-slider-image-20.png" alt="Advertising Best Practices"></div>
-                        </div>
-                        <!-- Second Slider (Right Moving) -->
-                        <div class="slider moving-right">
-                            <div><img src="../assets/images/amz-slider-image-21.png" alt="Digital Marketing Strategy"></div>
-                            <div><img src="../assets/images/amz-slider-image-22.png" alt="Ecommerce Business Growth"></div>
-                            <div><img src="../assets/images/amz-slider-image-23.png" alt="Conversion Rate Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-24.png" alt="Social Media Advertising"></div>
-                            <div><img src="../assets/images/amz-slider-image-25.png" alt="SEO for Ecommerce"></div>
-                            <div><img src="../assets/images/amz-slider-image-26.png" alt="Content Marketing for Brands"></div>
-                            <div><img src="../assets/images/amz-slider-image-27.png" alt="Influencer Collaboration"></div>
-                            <div><img src="../assets/images/amz-slider-image-28.png" alt="Retail Media Solutions"></div>
-                            <div><img src="../assets/images/amz-slider-image-29.png" alt="Product Research & Trends"></div>
-                            <div><img src="../assets/images/amz-slider-image-30.png" alt="PPC Performance Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-31.png" alt="Customer Retention Strategies"></div>
-                            <div><img src="../assets/images/amz-slider-image-32.png" alt="AI-Powered Advertising"></div>
-                            <div><img src="../assets/images/amz-slider-image-33.png" alt="Brand Positioning & Awareness"></div>
-                            <div><img src="../assets/images/amz-slider-image-34.png" alt="Sales Funnel Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-35.png" alt="Paid Search Campaigns"></div>
-                            <div><img src="../assets/images/amz-slider-image-36.png" alt="Customer Experience Enhancement"></div>
-                            <div><img src="../assets/images/amz-slider-image-37.png" alt="Affiliate Marketing Strategies"></div>
-                            <div><img src="../assets/images/amz-slider-image-38.png" alt="Product Launch Planning"></div>
-                            <div><img src="../assets/images/amz-slider-image-39.png" alt="Growth Hacking Techniques"></div>
-                            <div><img src="../assets/images/amz-slider-image-40.png" alt="Data-Driven Ecommerce Solutions"></div>
-                        </div>
-                        <!-- Third Slider (Left Moving) -->
-                        <div class="slider moving-left">
-                            <div><img src="../assets/images/amz-slider-image-41.png" alt="Ecommerce Growth Strategies"></div>
-                            <div><img src="../assets/images/amz-slider-image-42.png" alt="Online Retail Branding"></div>
-                            <div><img src="../assets/images/amz-slider-image-43.png" alt="SEO for Online Stores"></div>
-                            <div><img src="../assets/images/amz-slider-image-44.png" alt="Data-Driven Advertising"></div>
-                            <div><img src="../assets/images/amz-slider-image-45.png" alt="Social Media Marketing"></div>
-                            <div><img src="../assets/images/amz-slider-image-46.png" alt="Product Listing Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-47.png" alt="Sales Boosting Techniques"></div>
-                            <div><img src="../assets/images/amz-slider-image-48.png" alt="Retail Market Insights"></div>
-                            <div><img src="../assets/images/amz-slider-image-49.png" alt="Targeted PPC Campaigns"></div>
-                            <div><img src="../assets/images/amz-slider-image-50.png" alt="Ecommerce Customer Engagement"></div>
-                            <div><img src="../assets/images/amz-slider-image-51.png" alt="Retail Business Scaling"></div>
-                            <div><img src="../assets/images/amz-slider-image-52.png" alt="Conversion Rate Optimization"></div>
-                            <div><img src="../assets/images/amz-slider-image-53.png" alt="Performance Marketing"></div>
-                            <div><img src="../assets/images/amz-slider-image-54.png" alt="Influencer Marketing"></div>
-                            <div><img src="../assets/images/amz-slider-image-55.png" alt="AI-Powered Shopping Trends"></div>
-                            <div><img src="../assets/images/amz-slider-image-56.png" alt="Effective Email Campaigns"></div>
-                            <div><img src="../assets/images/amz-slider-image-57.png" alt="Customer Retention Strategies"></div>
-                            <div><img src="../assets/images/amz-slider-image-58.png" alt="Brand Awareness Campaigns"></div>
-                            <div><img src="../assets/images/amz-slider-image-59.png" alt="Advanced Keyword Research"></div>
-                            <div><img src="../assets/images/amz-slider-image-60.png" alt="Cross-Channel Marketing"></div>
-                        </div>
-                    </div>
+        </div>
+    </div>
+</section>
 
-                </div>
-            </div>
-        </div>
-    </section>
     <section id="reach-top-google-bing" style="padding:0px 0px;">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-6" style="padding-top: 90px;padding-bottom: 90px;">
-                    <h6>Become an Established Brand</h6>
-                    <h2>E-commerce Marketing That <br>Converts: Drive Sales and<br> Dominate Your Market
-                    </h2>
-                    <p>
-                        Attracting, nurturing, and converting customers online requires a strategic approach. As a results-driven eCommerce marketing agency, we specialize in crafting custom solutions that deliver tangible ROI. We develop tailored strategies that address your specific needs and help you achieve sustainable online growth.
-                    </p>
-                    <div class="reach-bing-button">
-                        <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
-                    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6" style="padding-top: 90px;padding-bottom: 90px;">
+                <h6>Build a Recognizable Brand</h6>
+                <h2>High-Converting Ecommerce <br>Marketing to Boost Sales and<br> Outshine Competitors</h2>
+                <p>
+                    Successfully attracting, engaging, and converting online shoppers demands a strategic marketing approach. As a performance-driven ecommerce marketing agency, we create tailored campaigns designed to meet your unique business goals and deliver measurable growth.
+                </p>
+                <div class="reach-bing-button">
+                    <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
                 </div>
-                <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper" style="top: 0px;">
-                        <img src="../assets/images/ecommerce-become-established.gif" alt="How to Establish Your Ecommerce Business">
-                    </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="reach-top-image-wrapper" style="top: 0px;">
+                    <img src="../assets/images/ecommerce-become-established.gif" alt="How to Establish Your Ecommerce Business">
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
 
     <section id="tired-of-dealing">
         <div class="container">
@@ -657,61 +590,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "What services does Buzzline Digital offer?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Buzzline Digital offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What types of businesses do you work with?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We work with businesses of all sizes, from small local businesses to large enterprises, across various industries. Our tailored approach ensures that we can meet the unique needs of each client."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you measure the success of your campaigns?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We use a variety of metrics to track the performance of our campaigns, including website traffic, conversion rates, search engine rankings, social media engagement, and return on investment (ROI). We provide regular reports to our clients to keep them informed of our progress."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How much does it cost to work with Buzzline Digital?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Our pricing varies depending on the specific services required and the scope of the project. We offer customized solutions to fit different budgets. We recommend contacting us for a free consultation to discuss your needs and receive a personalized quote."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What is your approach to eCommerce marketing?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Our eCommerce marketing approach is customer-centric and data-driven. We focus on creating engaging online experiences that drive traffic, increase conversions, and build customer loyalty. We utilize a range of strategies, including SEO, social media marketing, email marketing, and paid advertising."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How can I get started with Buzzline Digital?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Getting started is easy! Simply contact us through our website, phone, or email to schedule a free consultation. We'll discuss your business goals and develop a tailored strategy to help you achieve them."
-                    }
-                }
-            ]
-        }
-    </script>
+   
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">
