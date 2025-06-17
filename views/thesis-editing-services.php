@@ -15,12 +15,13 @@
             <div class="row">
                 <div class="col-lg-9">
                     <h1>
-                        Boost Your <span>Research Paper's</span> Chances of Publication by 3X with Our Expert English Editing Services.
+                        Achieve Academic <span>Excellence with Expert Thesis</span> Support
                     </h1>
-                    <p>Rely on our subject matter experts to review your research paper, experience two levels of meticulous editing for a flawless outcome, and receive top-quality content crafted by native, highly skilled writers.</p>
+                    <p>We offer a focused and specialized approach to help students and researchers develop exceptional theses. Our experienced team brings deep academic insight and precision to every phase of the process—from idea development to final submission. With a commitment to quality and clarity, we turn your dedication and research into a compelling academic accomplishment, helping you reach new heights in your academic journey.</p>
 
-                    <div class="service-button">
-                        <a href="/who-we-are/"> <button class="button2 quote-button">Know More</button></a>
+                 <div class="service-button">
+                        <a href="https://wa.link/sb0cql"> <button class="button2 quote-button">Whatsapp</button></a>
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
                     </div>
                 </div>
                 <div class="col-lg-3"></div>
@@ -95,7 +96,7 @@
     </div>
 </section>
 
-<section id="calltc">
+<!-- <section id="calltc">
  <div class="container">
             <div class="row align-items-center">
  <div class="col-lg-4">
@@ -114,50 +115,60 @@
 
  </div>
  </div>
-</section>
+</section> -->
 
     <section id="strategic-ppc">
         <div class="container">
             <div class="row">
-                <h1 class="text-center" style="margin-bottom:30px;">Diverse <span>English Editing</span> Services</h1>
-                <div class="col-lg-4">
-                    <div class="ppc-cards">
-                         <div class="ppc-card-image-wrapper">
-                            <img src="../assets/images/resaerchlogo/1.svg" alt="">
-                        </div>
-                        <h3>Substantive <span>Editing</span> </h3>
-                       
-                        <div class="ppc-paragraph text-center">
-                            <p>
-                                Substantive editing aims to make the document more effective by
-enhancing its logic, organization, and presentation. </p>
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                  <div class="ppc-cards">
-                         <div class="ppc-card-image-wrapper">
-                            <img src="../assets/images/resaerchlogo/2.svg" alt="">
-                        </div>
-                        <h3>Modification <span>Editing</span> </h3>
-                       
-                        <div class="ppc-paragraph text-center">
-                            <p>This process can include editing text, altering images or videos, and revising layout or design elements. The goal is to enhance the quality, accuracy, and effectiveness of the content.</p>
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-4">
+                <h1 class="text-center" style="margin-bottom:30px;"><span>Thesis </span>Services</h1>
+                <div class="col-lg-3">
                     <div class="ppc-cards">
                          <div class="ppc-card-image-wrapper">
                             <img src="../assets/images/resaerchlogo/3.svg" alt="">
                         </div>
-                        <h3>Critical <span>Editing</span> </h3>
+                        <h3><span>Thesis</span> Overview </h3>
                        
                         <div class="ppc-paragraph text-center">
-                            <p>
-                                Critical editors often annotate the text, explaining editorial decisions, textual variations, and providing insights into the work's historical, cultural, and literary significance.</p>
+                            <p>The thesis overview concisely presents the purpose and key findings of your research, offering a clear and engaging summary that encourages further exploration. It lays the foundation for the detailed insights and meaningful contributions your work brings to your academic field.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                            <img src="../assets/images/resaerchlogo/3.svg" alt="">
+                        </div>
+                        <h3><span>Journal</span> Selection </h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>Selecting the right journal is essential for ensuring your research reaches the appropriate academic audience. Our expert guidance helps align your work with the most suitable publication platforms, maximizing both its visibility and scholarly impact.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                            <img src="../assets/images/resaerchlogo/3.svg" alt="">
+                        </div>
+                        <h3>Intro <span>Purposing</span></h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>A well-crafted introduction sets the tone for your entire thesis. "Intro Purposing" involves shaping an introduction that clearly outlines the research intent and direction, drawing readers in with a concise and compelling overview of your study’s importance and goals.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                            <img src="../assets/images/resaerchlogo/3.svg" alt="">
+                        </div>
+                        <h3><span>Hand-Picking</span> Relevant Data</h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>Carefully selecting the most relevant and high-quality data is crucial to building a credible and impactful analysis. This process ensures that your research is firmly grounded in strong evidence, thereby increasing the validity and influence of your findings.</p>
                         </div>
                         
                     </div>
@@ -331,10 +342,11 @@ enhancing its logic, organization, and presentation. </p>
 
 
 
-    <?php 
-$headingText = "Enhance Your Manuscript’s Quality<br> With Our Expert English Editing Services"; 
+<?php 
+$headingText = "Refine Your Thesis to Perfection<br> With Our Expert Thesis Editing Services"; 
 include_once("includes/footer.php"); 
 ?>
+
 
 
 

@@ -15,12 +15,13 @@
             <div class="row">
                 <div class="col-lg-9">
                     <h1>
-                        Boost Your <span>Research Paper's</span> Chances of Publication by 3X with Our Expert English Editing Services.
+                     Advancing <span>Science Through<br> Expert</span> Editing
                     </h1>
-                    <p>Rely on our subject matter experts to review your research paper, experience two levels of meticulous editing for a flawless outcome, and receive top-quality content crafted by native, highly skilled writers.</p>
+                    <p>With over 20 years of senior-level scientific editing experience, our managing editor supports more than 500 researchers each year. Our precise and thoughtful editing process enhances the accuracy of your research while elevating its impact within the scientific community. By translating complex ideas into clear, compelling content, we help ensure your work is both understood and valued—contributing meaningfully to scientific progress and real-world application.</p>
 
                     <div class="service-button">
-                        <a href="/who-we-are/"> <button class="button2 quote-button">Know More</button></a>
+                        <a href="https://wa.link/sb0cql"> <button class="button2 quote-button">Whatsapp</button></a>
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
                     </div>
                 </div>
                 <div class="col-lg-3"></div>
@@ -115,58 +116,6 @@
  </div>
  </div>
 </section>
-
-    <section id="strategic-ppc">
-        <div class="container">
-            <div class="row">
-                <h1 class="text-center" style="margin-bottom:30px;">Diverse <span>English Editing</span> Services</h1>
-                <div class="col-lg-4">
-                    <div class="ppc-cards">
-                         <div class="ppc-card-image-wrapper">
-                            <img src="../assets/images/resaerchlogo/1.svg" alt="">
-                        </div>
-                        <h3>Substantive <span>Editing</span> </h3>
-                       
-                        <div class="ppc-paragraph text-center">
-                            <p>
-                                Substantive editing aims to make the document more effective by
-enhancing its logic, organization, and presentation. </p>
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                  <div class="ppc-cards">
-                         <div class="ppc-card-image-wrapper">
-                            <img src="../assets/images/resaerchlogo/2.svg" alt="">
-                        </div>
-                        <h3>Modification <span>Editing</span> </h3>
-                       
-                        <div class="ppc-paragraph text-center">
-                            <p>This process can include editing text, altering images or videos, and revising layout or design elements. The goal is to enhance the quality, accuracy, and effectiveness of the content.</p>
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="ppc-cards">
-                         <div class="ppc-card-image-wrapper">
-                            <img src="../assets/images/resaerchlogo/3.svg" alt="">
-                        </div>
-                        <h3>Critical <span>Editing</span> </h3>
-                       
-                        <div class="ppc-paragraph text-center">
-                            <p>
-                                Critical editors often annotate the text, explaining editorial decisions, textual variations, and providing insights into the work's historical, cultural, and literary significance.</p>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
 <section id="calltc-sencd">
  <div class="container">
             <div class="row align-items-center">
@@ -189,8 +138,79 @@ enhancing its logic, organization, and presentation. </p>
  </div>
  </div>
 </section>
+    <section id="strategic-ppc">
+        <div class="container">
+            <div class="row">
+                <h1 class="text-center" style="margin-bottom:10px;">Areas Of <span>Expertise</span></h1>
+                <p class="text-center" style="margin-bottom:30px;">We bring expertise to diverse areas, ensuring comprehensive support for our clients.</p>
+                <div class="col-lg-3">
+                    <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                           <i class="bi bi-pencil-square"></i>
+                        </div>
+                        <h3>Scientific <span>Editors</span> </h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>Our scientific editor will deliver a mock peer review report that outlines both the strengths and the weaknesses of your manuscript.</p>
+                        </div>
+                        <div class="service-button text-center">
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                            <i class="bi bi-check"></i>
+                        </div>
+                        <h3>Plagiarism <span>Check</span></h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>A scientific editor will prepare a detailed mock peer review, highlighting both the strengths and weaknesses of your manuscript.</p>
+                        </div>
+                         <div class="service-button text-center">
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                            <i class="bi bi-file-text"></i>
+                        </div>
+                        <h3>Scientific <span>Report</span></h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>Your manuscript will be thoroughly screened for plagiarism, and you'll receive a comprehensive report with clear, practical suggestions.</p>
+                        </div>
+                         <div class="service-button text-center">
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
+                    </div>
+                    </div>
+                </div>
+                  <div class="col-lg-3">
+                    <div class="ppc-cards">
+                         <div class="ppc-card-image-wrapper">
+                            <i class="bi bi-check2-square"></i>
+                        </div>
+                        <h3>Quality <span>Assurance</span> Check</h3>
+                       
+                        <div class="ppc-paragraph text-center">
+                            <p>A seasoned journal reviewer will assess your paper and offer expert suggestions to enhance its quality.</p>
+                        </div>
+                         <div class="service-button text-center">
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-<section id="ppc-faqs">
+
+
+
+<!-- <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">
                 <h2>Frequently Asked Questions</h2>
@@ -256,7 +276,7 @@ enhancing its logic, organization, and presentation. </p>
 
             </div>
         </div>
-    </section>
+    </section> -->
 
 <section id="clients-testimonial">
         <div class="container">
@@ -331,8 +351,8 @@ enhancing its logic, organization, and presentation. </p>
 
 
 
-    <?php 
-$headingText = "Enhance Your Manuscript’s Quality<br> With Our Expert English Editing Services"; 
+ <?php 
+$headingText = "Strengthen Your Scientific Manuscript<br> With Our Expert Scientific Editing Services"; 
 include_once("includes/footer.php"); 
 ?>
 

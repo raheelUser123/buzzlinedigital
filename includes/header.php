@@ -49,13 +49,13 @@
               <li><a class="dropdown-item" href="/english-editing-services/">English Editing Services</a></li>
             </div>
             <div class="custom-inner">
-              <li><a class="dropdown-item" href="#">Scientific Editing Services</a></li>
+              <li><a class="dropdown-item" href="/scientific-editing-services/">Scientific Editing Services</a></li>
             </div>
             <div class="custom-inner">
-              <li><a class="dropdown-item" href="#">Case Report Editing</a></li>
+              <li><a class="dropdown-item" href="/case-report-editing/">Case Report Editing</a></li>
             </div>
             <div class="custom-inner">
-              <li><a class="dropdown-item" href="#">Thesis Editing Services</a></li>
+              <li><a class="dropdown-item" href="/thesis-editing-services/">Thesis Editing Services</a></li>
             </div>
           </ul>
         </li>
