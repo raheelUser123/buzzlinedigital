@@ -555,7 +555,7 @@ include_once("includes/head.php");
                         <p>Contact us today for a free proposal!</p>
                     </div>
 
-                    <form id="contact" class="animate__animated animate__pulse" action="/leads/" method="POST" aria-label="Amazon Marketing Contact Form">
+                    <form id="contact" class="animate__animated animate__pulse" action="/smtp-handler.php" method="POST" aria-label="Amazon Marketing Contact Form">
                         <fieldset>
                             <input type="text" name="name" placeholder="Full Name*" required />
                         </fieldset>

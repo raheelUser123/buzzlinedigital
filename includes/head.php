@@ -1,11 +1,11 @@
-<?php
+<!-- <?php
 include_once("token.php");
 if (isset($_SERVER['HTTPS'])) {
   $requesMet = "https";
 } else {
   $requesMet = "http";
 }
-?>
+?> -->
 <?php
 // Get the requested URI
 $request_uri = $_SERVER['REQUEST_URI'];
@@ -30,7 +30,7 @@ if ($request_uri === '/home/') {
  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+  <meta name='robots' content='no-index, no-follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
   <title><?php echo isset($metaTitle) ? $metaTitle : 'Award-Winning Digital Marketing Firm | Buzzline Digital'; ?></title>
   <meta name="description" content="<?php echo isset($metaDescription) ? $metaDescription : 'Specializing in Digital Marketing and Ad Management, we don’t just build your online presence. We drive ROI with our result-driven services. '; ?>">
   <meta name="viewport"
