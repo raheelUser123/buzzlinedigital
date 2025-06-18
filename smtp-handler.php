@@ -16,7 +16,7 @@ $mail = new PHPMailer(true);
 
 try {
     $mail->isSMTP();
-    $mail->Host       = 'box5573.bluehost.com';
+    $mail->Host       = 'mail.buzzlinedigital.com';
     $mail->SMTPAuth   = true;
     $mail->Username   = 'query@buzzlinedigital.com';
     $mail->Password   = 'Admin123!@#';
@@ -24,7 +24,7 @@ try {
     $mail->Port       = 465;
 
     $mail->setFrom('info@buzzlinedigital.com', 'Website Form');
-    $mail->addAddress('receiver@email.com');
+    $mail->addAddress('query@buzzlinedigital.com');
 
     $mail->isHTML(true);
     $mail->Subject = 'New Website Form Submission';
