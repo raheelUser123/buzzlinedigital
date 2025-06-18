@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/amazon-marketing-services/";
+$metaUrl = "https://www.buzzlinedigital.com/amazon-marketing-services/";
 $metaTitle = "Professional Amazon Marketing Services  | Buzzline Digital";
 $metaDescription = "Elevate your brand with professional Amazon marketing services. Maximize visibility, increase sales, and grow your business with expert solutions.";
 include_once("includes/head.php");

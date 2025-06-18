@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/smm-services/";
+$metaUrl = "https://www.buzzlinedigital.com/smm-services/";
 $metaTitle = " Best Social Media Marketing Services| Buzzline Digital";
 $metaDescription = "Elevate your online presence with our expert social media marketing services. Drive growth, engagement, and results for your brand across platforms.";
 include_once("includes/head.php");
@@ -516,7 +516,7 @@ include_once("includes/head.php");
                             <p>
                                 Get a free marketing audit and improve your business growth!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -661,53 +661,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "context": "http://schema.org/",
-            "type": "FAQPage",
-            "mainEntity": [{
-                    "type": "Question",
-                    "name": "What social media platforms do you specialize in?",
-                    "acceptedAnswer": {
-                        "type": "Answer",
-                        "text": "We specialize in all major platforms, including Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest. We tailor our strategies to the platforms most relevant to your target audience."
-                    }
-                },
-                {
-                    "type": "Question",
-                    "name": "How do you measure the success of a social media campaign?",
-                    "acceptedAnswer": {
-                        "type": "Answer",
-                        "text": "We track key metrics such as engagement (likes, comments, shares), reach, website traffic, lead generation, and conversions. We provide regular reports to keep you informed of our progress."
-                    }
-                },
-                {
-                    "type": "Question",
-                    "name": "What is included in your social media management services?",
-                    "acceptedAnswer": {
-                        "type": "Answer",
-                        "text": "Our services typically include strategy development, content creation (including copywriting, graphic design, and video production), community management, social media advertising, and performance reporting. We offer customizable packages to meet your specific needs."
-                    }
-                },
-                {
-                    "type": "Question",
-                    "name": "How much does social media management cost?",
-                    "acceptedAnswer": {
-                        "type": "Answer",
-                        "text": "Our pricing varies depending on the scope of work and the specific services required. We offer customized packages to fit different budgets. Contact us for a free consultation and personalized quote."
-                    }
-                },
-                {
-                    "type": "Question",
-                    "name": "How do I get started with Buzzline Digital?",
-                    "acceptedAnswer": {
-                        "type": "Answer",
-                        "text": "Simply contact us through our website, email, or phone. We'll schedule a consultation to discuss your goals and how we can help you achieve them."
-                    }
-                }
-            ]
-        }
-    </script>
+    
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

@@ -75,7 +75,7 @@
                 Contact Us
                 </h3>           
                 <p>
-                For questions about this Privacy Policy, please contact us at <a href="mailto:query@buzzlinedigital.com"> query@buzzlinedigital.com.</a>
+                For questions about this Privacy Policy, please contact us at <a href="mailto:info@buzzlinedigital.com"> info@buzzlinedigital.com.</a>
                 </p>
             </div>
         </div>

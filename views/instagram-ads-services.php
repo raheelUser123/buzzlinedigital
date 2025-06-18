@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/instagram-ads-services/";
+$metaUrl = "https://www.buzzlinedigital.com/instagram-ads-services/";
 $metaTitle = "Instagram Ad Management to Boost Your Brand | Buzzline Digital";
 $metaDescription = "Transform your brand with tailored Instagram ad management services. Our team helps you engage, convert, and grow on Instagram.";
 include_once("includes/head.php");
@@ -467,7 +467,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -613,53 +613,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "How do you determine the best audience for my Instagram ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We use advanced targeting tools to analyze your brand, audience demographics, and behaviors to pinpoint the most relevant people who will engage with your ads."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How long does it take to see results from Instagram ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "While results can vary, most clients start to see noticeable engagement and performance improvements within a few weeks of launching their campaigns."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What kind of content do you create for Instagram ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We design visually striking and on-brand content, including static images, videos, carousels, and stories, all tailored to grab attention and drive conversions."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Can you manage ads for any type of business?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Absolutely! We work with businesses of all sizes across various industries, from e-commerce to tech, beauty, and beyond. Our approach is customized to your unique needs."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you measure the success of my Instagram ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We track key performance metrics like engagement rates, clicks, conversions, and ROI. We provide detailed reports to show how your ads are performing and offer insights for continuous improvement."
-                    }
-                }
-            ]
-        }
-    </script>
+ 
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

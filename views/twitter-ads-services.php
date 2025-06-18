@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/twitter-ads-services/";
+$metaUrl = "https://www.buzzlinedigital.com/twitter-ads-services/";
 $metaTitle = "Twitter (X) Ad Management Services | Buzzline Digital";
 $metaDescription = "Advertise your brand with our tailored Twitter (X) ad management services, delivering creative, data-driven campaigns that reach the right audience.";
 include_once("includes/head.php");
@@ -445,7 +445,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -588,53 +588,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "What makes your Twitter (X) ad management services different?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Our services stand out because we focus on tailored strategies, creative ad designs, and real-time data optimization to ensure your campaigns reach the right audience and deliver measurable results."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you determine the right audience for my ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We use a combination of data analysis, audience research, and behavioral insights to pinpoint exactly who your ideal customers are, ensuring your ads get to the people who matter most."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Will I be able to track the performance of my ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Absolutely! We provide detailed reports with clear metrics so you can track the effectiveness of your campaigns, understand what’s working, and make informed decisions moving forward."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How much budget should I allocate for my Twitter (X) ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The ideal budget depends on your goals, target audience, and the scope of your campaign. We’ll work with you to create a budget that maximizes ROI without overspending."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How long does it take to see results from Twitter (X) ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "While some results can be seen within days, we recommend allowing a few weeks for optimal performance, as we continually monitor and adjust your campaigns to improve results over time."
-                    }
-                }
-            ]
-        }
-    </script>
+  
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

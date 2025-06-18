@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/facebook-ads-services/";
+$metaUrl = "https://www.buzzlinedigital.com/facebook-ads-services/";
 $metaTitle = "Facebook Ad Management Services | Buzzline Digital ";
 $metaDescription = "Maximize your business growth with expert Facebook ad management services and reach the right audience.";
 include_once("includes/head.php");
@@ -468,7 +468,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -611,61 +611,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "How do you determine the best audience for my Facebook ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We use advanced audience targeting tools to analyze your ideal customer profile. This helps us reach the right people based on demographics, interests, behaviors, and past interactions with your business."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How much should I spend on Facebook ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The budget depends on your goals and the scope of your campaign. We’ll help you set a budget that aligns with your objectives and maximize your ROI by optimizing your ad spend for the best results."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you measure the success of my Facebook ad campaigns?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We track key metrics such as click-through rates, conversions, return on ad spend (ROAS), and engagement to evaluate the success of your campaigns. We continuously analyze and adjust based on performance data."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Can I change my Facebook ads once they’re live?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Absolutely! We can adjust your ad copy, creative, targeting, or budget at any time to ensure the campaign continues to perform at its best. Continuous testing and optimization are key to success."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How quickly will I see results from my Facebook ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Results can vary depending on the campaign type and objectives, but typically, you’ll start seeing engagement and traffic within the first few days. Conversion-based goals may take a little longer, but we’ll make sure we’re on the right track every step of the way."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you customize your email marketing campaigns?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We customize email marketing campaigns based on your business objectives and audience insights. This involves segmenting your audience, crafting personalized messages, and designing emails that resonate with your target demographic to increase engagement and conversions."
-                    }
-                }
-            ]
-        }
-    </script>
+    
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

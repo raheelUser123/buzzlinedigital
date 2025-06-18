@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/ecommerce-marketing-services/";
+$metaUrl = "https://www.buzzlinedigital.com/ecommerce-marketing-services/";
 $metaTitle = "Top Ecommerce Marketing Services |Buzzline Digital|";
 $metaDescription = "Grow your sales with our top ecommerce marketing services. Tailored strategies to increase visibility, drive traffic, and maximize conversions.";
 include_once("includes/head.php");
@@ -445,7 +445,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"

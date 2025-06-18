@@ -79,7 +79,7 @@
                 Contact Information
                 </h3>
                 <p>
-                For questions about these Terms, please contact us at query@buzzlinedigital.com
+                For questions about these Terms, please contact us at info@buzzlinedigital.com
                 </p>
             </div>
         </div>

@@ -41,8 +41,8 @@ if ($request_uri === '/home/') {
   <meta property="og:type" content="website">
   <meta property="og:title" content="<?php echo isset($metaTitle) ? $metaTitle : 'Award-Winning Digital Marketing Firm | Buzzline Digital'; ?>">
   <meta property="og:description" content="<?php echo isset($metaDescription) ? $metaDescription : 'Specializing in Digital Marketing and Ad Management, we don’t just build your online presence. We drive ROI with our result-driven services.'; ?>">
-  <meta property="og:url" content="<?php echo isset($metaUrl) ? $metaUrl : 'https://www.buzzlinedigital.com.com/'; ?>">
-  <meta property="og:image" content="<?php echo isset($metaImage) ? $metaImage : 'https://www.buzzlinedigital.com.com/assets/images/Tab-Soft-Marketing.png'; ?>">
+  <meta property="og:url" content="<?php echo isset($metaUrl) ? $metaUrl : 'https://www.buzzlinedigital.com/'; ?>">
+  <meta property="og:image" content="<?php echo isset($metaImage) ? $metaImage : 'https://www.buzzlinedigital.com/assets/images/Tab-Soft-Marketing.png'; ?>">
   <link rel="shortcut icon" href="../assets/images/fav-icon.png" type="image/png">
   <link rel="stylesheet" href="../assets/css/style.css">
   <link rel="icon" href="../assets/images/Tab-Soft-Marketing-fav-icon.png" type="image/png">

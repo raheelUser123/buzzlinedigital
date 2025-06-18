@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/tiktok-ads-services/";
+$metaUrl = "https://www.buzzlinedigital.com/tiktok-ads-services/";
 $metaTitle = "TikTok Ad Management Services | Buzzline Digital";
 $metaDescription = "Utilize the power of TikTok ads with expert management services and let your brand thrive on the world’s fastest-growing platform.";
 include_once("includes/head.php");
@@ -446,7 +446,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -591,53 +591,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "How quickly can I see results from TikTok ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Results can vary based on your goals and the type of campaign, but typically, you can start seeing engagement and metrics within the first week. Our team continuously optimizes your ads to drive better performance over time."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What is the minimum budget for TikTok ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We work with various budgets! Whether you’re just starting out or looking to scale, we’ll tailor a strategy that fits your budget and maximizes results. It’s all about smart spending, not just spending more."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Do you handle content creation for TikTok ads?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Yes! Our team creates eye-catching, engaging videos designed specifically for TikTok’s audience. From concept to editing, we take care of the entire process to ensure your content resonates with users."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you target the right audience?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We use advanced targeting strategies based on demographics, interests, behaviors, and more. By analyzing your brand and goals, we ensure your ads are seen by the most relevant audience, leading to better engagement and conversions."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Can you help with influencer collaborations?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Absolutely! We can connect you with top TikTok influencers and create partnerships that amplify your brand’s reach. Our team handles the strategy and outreach to ensure a successful collaboration."
-                    }
-                }
-            ]
-        }
-    </script>
+
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

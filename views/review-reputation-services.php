@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/review-reputation-services/";
+$metaUrl = "https://www.buzzlinedigital.com/review-reputation-services/";
 $metaTitle = "Review and Reputation Management Services | Buzzline Digital";
 $metaDescription = " Enhance your digital presence with the online review and reputation management services of Buzzline Digital!";
 include_once("includes/head.php");
@@ -421,7 +421,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -566,53 +566,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "Why is review and reputation management important for online businesses?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Review and reputation management is crucial for online businesses as it helps build trust, attract customers, and protect the brand’s image in a competitive digital market."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How does Buzzline Digital handle negative online content?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Buzzline Digital handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What is the difference between online review management and reputation management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Online review management focuses on managing reviews across different platforms (e.g., Google, Yelp), while reputation management covers all aspects of your online image, including reviews, social media mentions, and search engine results."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Why are online reviews important?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Online reviews significantly impact consumer decisions. Positive reviews can increase trust and sales, while negative reviews if left unmanaged, can harm your reputation."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Are review and reputation management services expensive?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The cost of these services varies based on your business size, service level, and needs."
-                    }
-                }
-            ]
-        }
-    </script>
+
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

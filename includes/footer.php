@@ -114,9 +114,9 @@
               <h6 class="text-uppercase fw-bold mb-4">Contact Information</h6>
               <p><a href="#" target="_blank"><i class="fas fa-home me-3"></i>1234 10th Lorem ipsum, United State, <br></a></p>
               <p>
-                <a href="mailto:query@buzzlinedigital.com">
+                <a href="mailto:info@buzzlinedigital.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@buzzlinedigital.com
+                  info@buzzlinedigital.com
                 </a>
               </p>
               <p><a href="tel:+447383321172"><i class="fas fa-phone me-3"></i> +447383321172</a></p>
@@ -178,7 +178,7 @@
           <div class="modal-lines text-center">
             <h2 class="modal-heading">Request an Appointment</h2>
           </div>
-          <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+          <form action="/smtp-handler.php" method="POST">
             <fieldset>
               <input
                 placeholder="Full Name"

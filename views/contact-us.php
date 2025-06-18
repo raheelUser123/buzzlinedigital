@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/contact-us/";
+$metaUrl = "https://www.buzzlinedigital.com/contact-us/";
 $metaTitle = "Contact Us for A Free Proposal | Buzzline Digital";
 $metaDescription = "Get in touch with Buzzline Digital for a free proposal and see how our expert team can help your business and deliver exceptional results.";
 include_once("includes/head.php");
@@ -31,7 +31,7 @@ include_once("includes/head.php");
       <div class="row">
         <div class="col-lg-6">
           <div class="form-container">
-            <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+            <form action="/smtp-handler.php" method="POST">
               <fieldset>
                 <label for="last-name">
                   FULL NAME <span >*</span>
@@ -112,9 +112,9 @@ include_once("includes/head.php");
               <hr>
               <p><a href="tel:+447383321172"><i class="fas fa-phone me-3"></i> +447383321172</a></p>
               <p>
-              <a href="mailto:query@buzzlinedigital.com">
+              <a href="mailto:info@buzzlinedigital.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@buzzlinedigital.com
+                  info@buzzlinedigital.com
                 </a>
               </p>
             </div>

@@ -36,7 +36,7 @@
                         <div class="propasl-form-heading">
                             <h3>Request a Free Proposal</h3>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <div class="row">
                                 <div class="col-md-6">
                                     <input type="text" class="form-control" placeholder="Enter Your Name *" name="name" required="">

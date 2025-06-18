@@ -62,7 +62,7 @@
                             We'll assist you in getting set up based on your business needs. Please choose the options that apply to you.
                             </p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"

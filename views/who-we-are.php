@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/who-we-are/";
+$metaUrl = "https://www.buzzlinedigital.com/who-we-are/";
 $metaTitle = "About Us | Who Are We? | Buzzline Digital";
 $metaDescription = "Buzzline Digital is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
 include_once("includes/head.php");

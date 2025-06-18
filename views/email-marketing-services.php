@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com.com/email-marketing-services/";
+$metaUrl = "https://www.buzzlinedigital.com/email-marketing-services/";
 $metaTitle = " Top Email Marketing Services | Buzzline Digital";
 $metaDescription = "Get the best email marketing services to boost engagement, drive sales, and grow your business with effective email campaigns.";
 include_once("includes/head.php");
@@ -506,7 +506,7 @@ include_once("includes/head.php");
                             <p>
                                 Contact us today for a free proposal!</p>
                         </div>
-                        <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
+                        <form action="/smtp-handler.php" method="POST">
                             <fieldset>
                                 <input
                                     placeholder="Full Name"
@@ -649,61 +649,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org/",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "What email marketing services does Buzzline Digital offer?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We offer a full range of email marketing services, including strategy development, email template design, list segmentation, automation, campaign management, reporting, and analytics."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What industries do you specialize in?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We work with businesses across various industries, including (but not limited to) e-commerce, retail, technology, healthcare, and professional services. Our adaptable approach allows us to tailor our services to meet the unique needs of any sector."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do you measure the success of an email marketing campaign?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We track key metrics such as open rates, click-through rates, conversion rates, unsubscribe rates, and ROI. We provide regular reports to our clients, highlighting campaign performance and identifying areas for optimization."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What email marketing platforms do you use?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "We are proficient in using various leading email marketing platforms, including Mailchimp, Constant Contact, Klaviyo, and others. We choose the platform that best suits our client's needs and budget."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How much does your email marketing service cost?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Our pricing varies depending on the scope of the project and the specific services required. We offer customized packages to fit different budgets and business needs. We encourage you to contact us for a free consultation and personalized quote."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do I get started with Buzzline Digital?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Simply contact us through our website or give us a call. We'll schedule a free consultation to discuss your business goals and how our email marketing services can help you achieve them."
-                    }
-                }
-            ]
-        }
-    </script>
+  
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">
