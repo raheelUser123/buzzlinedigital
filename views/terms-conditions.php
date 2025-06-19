@@ -69,7 +69,7 @@
                 </p>
                 <h3>Governing Law</h3>
                 <P>
-                These Terms are governed by the laws of the United States.
+                These Terms are governed by the laws of the United Kingdom.
                 </P>
                 <h3>Changes to Terms</h3>
                 <P>

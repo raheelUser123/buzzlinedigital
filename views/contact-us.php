@@ -106,7 +106,7 @@ include_once("includes/head.php");
           <div class="office-detail-paragraph">
             <div class="address-main-paragraph">
               <h5> United Kingdom </h5>
-              <p><a href="#">1244 United Kingdom 12121</a></p>
+              <p>Laings Corner, London Road, Mitcham, Greater London.</p>
             </div>
             <div class="office-number-addresss">
               <hr>

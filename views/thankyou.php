@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaUrl = "https://www.buzzlinedigital.com/tiktok-ads-services/";
-$metaTitle = "TikTok Ad Management Services | Buzzline Digital";
-$metaDescription = "Utilize the power of TikTok ads with expert management services and let your brand thrive on the world’s fastest-growing platform.";
+$metaUrl = "https://www.buzzlinedigital.com/thankyou/";
+$metaTitle = "Thank You | Buzzline Digital";
+$metaDescription = "Thank you for getting in touch with Buzzline Digital. We're excited to help your brand grow with creative and result-driven ad strategies.";
 include_once("includes/head.php");
 ?>
 <body>
-    
+    <style>section#service-hero-section .row {
+    flex-direction: unset !important;
+}</style>
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -25,8 +27,11 @@ Your inquiry is important to us, and our team will respond as soon as possible.<
         </div>
     </section>
 
-    <?php $headingText = "Your success on TikTok is just a click away!  ";
-    include_once("includes/footer.php") ?>
+   <?php
+$headingText = "You're one step closer to success!";
+include_once("includes/footer.php");
+?>
+
 
 
 

@@ -18,13 +18,13 @@ try {
     $mail->isSMTP();
     $mail->Host       = 'mail.buzzlinedigital.com';
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'query@buzzlinedigital.com';
-    $mail->Password   = 'Admin123!@#';
+    $mail->Username   = 'info@buzzlinedigital.com';
+    $mail->Password   = 'R0$3P3t@l';
     $mail->SMTPSecure = 'ssl';
     $mail->Port       = 465;
 
     $mail->setFrom('info@buzzlinedigital.com', 'Website Form');
-    $mail->addAddress('query@buzzlinedigital.com');
+    $mail->addAddress('info@buzzlinedigital.com');
 
     $mail->isHTML(true);
     $mail->Subject = 'New Website Form Submission';
@@ -37,7 +37,11 @@ try {
     ";
 
     $mail->send();
-    echo "Thank you! Your message has been sent.";
+
+    // ✅ Redirect after successful email send
+    header("Location: /thankyou/");
+    exit;
+
 } catch (Exception $e) {
     echo "Mailer Error: {$mail->ErrorInfo}";
 }

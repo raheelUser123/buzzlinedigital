@@ -19,8 +19,9 @@
                     </h1>
                     <p>Rely on our subject matter experts to review your research paper, experience two levels of meticulous editing for a flawless outcome, and receive top-quality content crafted by native, highly skilled writers.</p>
 
-                    <div class="service-button">
-                        <a href="/who-we-are/"> <button class="button2 quote-button">Know More</button></a>
+                   <div class="service-button">
+                        <a href="https://wa.link/sb0cql"> <button class="button2 quote-button">Whatsapp</button></a>
+                        <a href="/contact-us/"> <button class="button2 quote-button">Get a Quote</button></a>
                     </div>
                 </div>
                 <div class="col-lg-3"></div>
