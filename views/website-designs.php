@@ -16,7 +16,7 @@
 						At Buzzline Digital, we specialize in creating bespoke websites that blend visual appeal with functionality. Our goal is to deliver a seamless digital experience that captivates visitors and drives your business forward.
 					</p>
 					<div class="service-button">
-						<a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+						<a href="javascript;;"> <button class="button2 quote-button">Get Free Proposal</button></a>
 					</div>
 				</div>
 				<div class="col-lg-6"></div>
