@@ -37,10 +37,10 @@
             Follow Us
           </h6>
           <div class="footer-social-links">
-            <a href="https://www.facebook.com/buzzlinedigital.com/" target="_blank">
+            <a href="https://www.facebook.com/profile.php?id=61577365746151" target="_blank">
               <i class="bi bi-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/buzzlinedigital.com/" target="_blank">
+            <a href="https://www.instagram.com/buzzlinedigital/" target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
             <!-- <a href="https://www.linkedin.com/company/Buzzline Digitalagency/" target="_blank">

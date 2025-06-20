@@ -119,15 +119,13 @@ include_once("includes/head.php");
               </p>
             </div>
             <div class="contact-us-links">
-            <a href="https://www.facebook.com/Buzzline Digitalagency/" target="_blank">
+            <a href="https://www.facebook.com/profile.php?id=61577365746151" target="_blank">
               <i class="bi bi-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/Buzzline Digitalagency/">
+            <a href="https://www.instagram.com/buzzlinedigital/">
               <i class="bi bi-instagram"></i>
             </a>
-            <a href="https://www.linkedin.com/company/Buzzline Digitalagency/">
-              <i class="bi bi-linkedin"></i>
-            </a>
+          
             <!-- <a href="">
               <i class="bi bi-twitter-x"></i>
             </a> -->
