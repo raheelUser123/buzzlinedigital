@@ -10,7 +10,7 @@ $imageSrc = isset($imageSrc) ? $imageSrc : '../assets/images/default-image.png';
                         <?php echo isset($headingTexts) ? $headingTexts : 'See How We Propel Your<br> Business To New Heights!'; ?>
                     </h2>
                     <div class="call-to-action-button">
-                        <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                        <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                     </div>
                 </div>
                 <div class="call-to-action-rocket-image-wrapper">

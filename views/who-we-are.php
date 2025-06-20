@@ -20,7 +20,7 @@ include_once("includes/head.php");
                         A full-service digital marketing agency where creativity meets strategy to deliver exceptional marketing and ad management services, helping businesses of all sizes achieve the results they dreamed of.
                     </p>
                     <div class="partners-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
                 </div>
                 <div class="col-lg-6"></div>

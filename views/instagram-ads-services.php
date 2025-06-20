@@ -28,7 +28,7 @@ include_once("includes/head.php");
                         </b> -->
                     </p>
                     <div class="service-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
                 </div>
                 <div class="col-lg-6"></div>
@@ -721,7 +721,7 @@ include_once("includes/head.php");
                         </div>
                     </div>
                     <div class="insta-ads">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
                 </div>
             </div>

@@ -46,7 +46,7 @@
                             </div>
                         </div>
                         <div class="hero-quote">
-                            <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                            <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -451,7 +451,7 @@
                     Boost your site’s search visibility and rank higher in organic results with our SEO expertise. From in-depth keyword research to optimized content and strategic link-building, we help attract qualified traffic and strengthen your digital presence.
                 </p>
                 <div class="ad-button">
-                    <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                    <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -468,7 +468,7 @@
                     Connect with your audience and grow your brand across platforms through our social media marketing services. We craft engaging content and tailor campaigns that spark conversations, drive interaction, and build loyal communities.
                 </p>
                 <div class="ad-button">
-                    <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                    <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -485,7 +485,7 @@
                     Enhance your brand’s visibility through powerful ad campaigns on platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter. Our team blends creative storytelling with data-driven strategies to deliver impactful ads that inspire action.
                 </p>
                 <div class="ad-button">
-                    <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                    <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -502,7 +502,7 @@
                     Achieving success on Amazon requires expertise. Our team helps you optimize listings, develop A+ content, and launch smart ad campaigns to boost product visibility, outperform competitors, and increase conversions on the world's top e-commerce platform.
                 </p>
                 <div class="ad-button">
-                    <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                    <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -519,7 +519,7 @@
                     Accelerate your online sales with tailored ecommerce marketing solutions. From launching products to running retargeting ads, we help you engage customers at every stage of their buying journey, turning browsers into loyal buyers.
                 </p>
                 <div class="ad-button">
-                    <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                    <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -536,7 +536,7 @@
                     Reach your audience directly with personalized and impactful email campaigns. Whether you're nurturing leads, announcing a new product, or sharing updates, our strategies ensure your emails are opened, read, and acted upon.
                 </p>
                 <div class="ad-button">
-                    <a href="#"><button class="button2 quote-button">Get Proposal</button></a>
+                    <a href="/get-proposal/"><button class="button2 quote-button">Get Proposal</button></a>
                 </div>
             </div>
             <div class="col-lg-6">

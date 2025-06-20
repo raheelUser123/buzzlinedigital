@@ -17,7 +17,7 @@
                         As a Premier Google Ads (formerly AdWords) Partner, we specialize in creating and optimizing campaigns designed to drive business growth. Our expertise ensures your campaigns are set up for maximum impact and performance.
                     </p>
                     <div class="service-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
                 </div>
                 <div class="col-lg-6"></div>

@@ -16,7 +16,7 @@
                     <p>Ecommerce landing pages optimized for conversions</p>
 
                     <div class="service-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
                 </div>
                 <div class="col-lg-6"></div>

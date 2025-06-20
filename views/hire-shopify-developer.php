@@ -39,7 +39,7 @@
                             Exclusive Access to Industry-Leading Suppliers ($99) </li>
                     </ul>
                     <div class="service-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
                 </div>
             </div>

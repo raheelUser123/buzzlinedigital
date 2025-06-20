@@ -17,7 +17,7 @@
 No generic templates here—our team creates custom-designed, conversion-focused landing pages tailored to your needs.
                 </p>
                 <div class="landing-page-button">
-                        <a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
+                        <a href="/get-proposal/"> <button class="button2 quote-button">Get Free Proposal</button></a>
                     </div>
             </div>
             <div class="col-lg-6"></div>
